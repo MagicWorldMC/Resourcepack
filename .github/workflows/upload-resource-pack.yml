@@ -1,4 +1,4 @@
-name: Squash & release
+name: Zip & release
 
 on:
   push:
