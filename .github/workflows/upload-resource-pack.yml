@@ -16,19 +16,9 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Run PackSquash
-        uses: ComunidadAylas/PackSquash-action@v3
-        with:
-          validate_pack_metadata_file: false
-          automatic_minecraft_quirks_detection: false
-          automatic_asset_types_mask_detection: false
-          
-      - name: Download optimized pack
-        uses: actions/download-artifact@v3
-        with:
-          name: Optimized pack
-      - name: Rename pack file
-        run: mv pack.zip MagicWorld-v${{ github.run_number }}.zip
+      - name: Zip contents of repository
+        run: |
+          zip -r MagicWorld-v${{ github.run_number }}.zip .
 
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
