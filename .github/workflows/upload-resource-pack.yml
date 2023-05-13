@@ -23,7 +23,7 @@ jobs:
 
       - name: Zip contents of repository
         run: |
-          zip -r MagicWorld-v${{ github.run_number }}.zip .
+          zip -r MagicWorld-v${{ github.run_number }}.zip assets/ credits.txt pack.mcmeta pack.png
           
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
