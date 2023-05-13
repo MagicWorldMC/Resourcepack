@@ -20,6 +20,7 @@ jobs:
       - name: Zip contents of repository
         run: |
           zip -r MagicWorld-v${{ github.run_number }}.zip .
+          mv MagicWorld-v${{ github.run_number }}.zip $GITHUB_WORKSPACE
 
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
