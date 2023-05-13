@@ -1,5 +1,8 @@
 name: Squash & release
 
+permissions:
+  contents: write
+
 on:
   push:
     branches: [ main ]
@@ -22,11 +25,6 @@ jobs:
       - name: Zip contents of repository
         run: |
           zip -r MagicWorld-v${{ github.run_number }}.zip .
-          
-      - name: Download pack
-        uses: actions/download-artifact@v3
-        with:
-          name: MagicWorld-v${{ github.run_number }}.zip
           
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
