@@ -1,0 +1,44 @@
+name: Squash & release
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  upload-resource-pack:
+    if: "!contains(github.event.commits[0].message, '[ci-skip]')"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Run PackSquash
+        uses: ComunidadAylas/PackSquash-action@v3
+        with:
+          validate_pack_metadata_file: false
+          automatic_minecraft_quirks_detection: false
+          automatic_asset_types_mask_detection: false
+          
+      - name: Download optimized pack
+        uses: actions/download-artifact@v3
+        with:
+          name: Optimized pack
+      - name: Rename pack file
+        run: mv pack.zip MagicWorld-v${{ github.run_number }}.zip
+
+      - name: Tag and create release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ResourcePack-v${{ github.run_number }}
+          files: MagicWorld-v${{ github.run_number }}.zip
+
+      - name: Send Discord webhook
+        uses: MineBartekSA/discord-webhook@v2.1
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          content: 'The new resource pack is now available on GitHub resources: https://github.com/${{ github.repository }}/releases/download/ResourcePack-v${{ github.run_number }}/MagicWorld-v${{ github.run_number }}.zip'
+          username: 'Resource pack'
