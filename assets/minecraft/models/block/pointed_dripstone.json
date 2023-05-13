@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2020",
+    "parent": "minecraft:block/block",
+    "ambientocclusion": true,
+    "textures": {
+        "particle": "block/dripstone_block",
+        "dripstone": "block/dripstone_block"
+    }
+}

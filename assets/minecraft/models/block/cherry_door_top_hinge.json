@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2023",
+    "parent": "minecraft:block/custom_template_door_top_hinge",
+    "textures": {
+        "bottom": "minecraft:block/cherry_bottom",
+        "top": "minecraft:block/cherry_door_top",
+        "edge": "minecraft:block/cherry_door_edge"
+    }
+}

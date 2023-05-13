@@ -1,0 +1,10 @@
+{
+	"credit": "Made by Jazzkuh with Blockbench",
+	"parent": "block/light_gray_glazed_terracotta",
+	"textures": {
+		"0": "custom/chair_sides_spruce",
+		"1": "custom/chair",
+		"2": "block/spruce_planks",
+		"particle": "custom/chair_sides_spruce"
+	}
+}

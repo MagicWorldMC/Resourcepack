@@ -1,0 +1,31 @@
+{
+    "__comment": "JimStoneCraft - 2021",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "#flower_pot",
+        "cactus": "minecraft:block/cactus_pot"
+    },
+    "elements": [
+        {   "from": [ 5, 0, 5 ],
+            "to": [ 11, 6, 11 ],
+            "faces": {
+                "down":  { "uv": [ 5,  5, 11, 11 ], "texture": "#flower_pot", "cullface": "down" },
+                "up":    { "uv": [ 5,  5, 11, 11 ], "texture": "#flower_pot" },
+                "north": { "uv": [ 5, 10, 11, 16 ], "texture": "#flower_pot" },
+                "south": { "uv": [ 5, 10, 11, 16 ], "texture": "#flower_pot" },
+                "west":  { "uv": [ 5, 10, 11, 16 ], "texture": "#flower_pot" },
+                "east":  { "uv": [ 5, 10, 11, 16 ], "texture": "#flower_pot" }
+            }
+        },
+        {   "from": [ 6, 4, 6 ],
+            "to": [ 10, 16, 10 ],
+            "faces": {
+                "up":    { "uv": [ 0, 0,  4,  4 ], "texture": "#cactus" },
+                "north": { "uv": [ 6, 0, 10, 12 ], "texture": "#cactus" },
+                "south": { "uv": [ 6, 0, 10, 12 ], "texture": "#cactus" },
+                "west":  { "uv": [ 6, 0, 10, 12 ], "texture": "#cactus" },
+                "east":  { "uv": [ 6, 0, 10, 12 ], "texture": "#cactus" }
+            }
+        }
+    ]
+}

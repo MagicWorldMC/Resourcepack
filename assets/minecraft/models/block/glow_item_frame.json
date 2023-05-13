@@ -1,0 +1,9 @@
+{
+    "__comment": "JimStoneCraft - 2020",
+    "parent": "minecraft:block/custom_template_item_frame",
+    "textures": {
+        "particle": "minecraft:block/oak_planks",
+        "wood": "minecraft:block/glow_item_frame_border",
+        "back": "minecraft:block/glow_item_frame_background"
+    }
+}

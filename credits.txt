@@ -1,0 +1,34 @@
+
+RESOURCEPACK CREDITS
+
+====================================================================================================
+
+John Smith Legacy resource pack for Minecraft
+
+-Official website:
+https://www.johnsmithlegacy.co.uk/
+
+If you didn't download it from the above site then you may be running an old version.
+~JimStoneCraft
+
+-Twitter:
+https://twitter.com/JimStoneCraft
+
+-Patreon
+https://www.patreon.com/jimstonecraft
+
+-Discord
+https://discord.gg/tyDrrRG
+
+-Minecraft Forum Thread:
+https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/2705997
+
+====================================================================================================
+
+- The base for this Resource Pack is John Smith Legacy. (See above)
+
+- "Glow" texture for the wands are from the Magic Resource Pack (https://github.com/elBukkit/Magic-RP)
+
+- Brewing stand model is made by Klimdanick.
+
+- Sorting hat is made by RedstoneMvv.
