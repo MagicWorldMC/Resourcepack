@@ -1,4 +1,4 @@
-name: Zip & release
+name: Zip & release pack
 
 on:
   push:
