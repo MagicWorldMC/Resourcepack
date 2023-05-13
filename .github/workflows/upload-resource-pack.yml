@@ -18,8 +18,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get -y install zip
 
       - name: Zip contents of repository
-        run: |
-          zip -r MagicWorld-v${{ github.run_number }}.zip .
+        run: zip -r MagicWorld-v${{ github.run_number }}.zip .
 
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
