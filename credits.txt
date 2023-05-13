@@ -29,6 +29,6 @@ https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-
 
 - "Glow" texture for the wands are from the Magic Resource Pack (https://github.com/elBukkit/Magic-RP)
 
-- Brewing stand model is made by Klimdanick.
+- Brewingstand, golden cup, fruit bowl are made by Klimdanick.
 
 - Sorting hat is made by RedstoneMvv.
