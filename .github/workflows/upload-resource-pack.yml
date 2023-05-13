@@ -1,8 +1,5 @@
 name: Squash & release
 
-permissions:
-  contents: write
-
 on:
   push:
     branches: [ main ]
@@ -13,6 +10,8 @@ jobs:
   upload-resource-pack:
     if: "!contains(github.event.commits[0].message, '[ci-skip]')"
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
