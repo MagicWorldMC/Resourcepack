@@ -2355,6 +2355,8 @@
             ]
         },
         
+        {"type": "bitmap","file": "minecraft:custom/logo.png","ascent": 32, "height": 80,"chars": ["⿌⿍"]},
+        {"type": "bitmap","file": "minecraft:custom/logo.png","ascent": 18.75, "height": 35,"chars": ["җҘ"]},
 		{"type": "bitmap","file": "minecraft:custom/icons/space.png","ascent": -32768,"height": -3,"chars": ["⿎"]},
         {"type": "bitmap","file": "minecraft:custom/icons/house_gryphon.png", "ascent": 8, "height": 9, "chars": ["\uE001"]},
         {"type": "bitmap","file": "minecraft:custom/icons/house_rattlesnake.png", "ascent": 8, "height": 9, "chars": ["\uE002"]},
