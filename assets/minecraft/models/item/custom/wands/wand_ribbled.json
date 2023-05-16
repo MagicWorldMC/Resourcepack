@@ -2,7 +2,7 @@
 	"credit": "Made by Jazzkuh with Blockbench",
 	"textures": {
 		"0": "custom/wand/glow",
-		"1": "block/birch_fence",
+		"1": "block/mangrove_fence",
 		"particle": "custom/wand/glow"
 	},
 	"elements": [
