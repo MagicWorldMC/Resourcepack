@@ -36,5 +36,5 @@ jobs:
         uses: MineBartekSA/discord-webhook@v2.1
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          content: '${{ github.actor }} published a new resourcepack on Github Releases: https://github.com/${{ github.repository }}/releases/download/ResourcePack-v${{ github.run_number }}/MagicWorld-v${{ github.run_number }}.zip\nChanges: ${{ steps.commit_message.outputs.message }}'
+          content: '${{ github.actor }} published a new resourcepack on Github Releases: https://github.com/${{ github.repository }}/releases/download/ResourcePack-v${{ github.run_number }}/MagicWorld-v${{ github.run_number }}.zip\nChanges: ${{ github.event.commits[0].commit.message }}'
           username: 'Resource pack'
