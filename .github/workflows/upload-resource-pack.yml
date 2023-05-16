@@ -25,6 +25,10 @@ jobs:
         run: |
           zip -r MagicWorld-v${{ github.run_number }}.zip assets/ credits.txt pack.mcmeta pack.png
           
+      - name: Get commit message
+        id: commit_message
+        run: echo "::set-output name=message::${{ github.event.commits[0].message }}"          
+          
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
@@ -36,5 +40,5 @@ jobs:
         uses: MineBartekSA/discord-webhook@v2.1
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          content: '${{ github.actor }} published a new resourcepack on Github Releases: https://github.com/${{ github.repository }}/releases/download/ResourcePack-v${{ github.run_number }}/MagicWorld-v${{ github.run_number }}.zip\nChanges: ${{ steps.commit_title.outputs.title }}'
+          content: '${{ github.actor }} published a new resourcepack on Github Releases: https://github.com/${{ github.repository }}/releases/download/ResourcePack-v${{ github.run_number }}/MagicWorld-v${{ github.run_number }}.zip\nChanges: ${{ steps.commit_message.outputs.message }}'
           username: 'Resource pack'
