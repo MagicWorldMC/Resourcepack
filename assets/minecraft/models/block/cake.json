@@ -5,7 +5,8 @@
 		"2": "block/polished_andesite",
 		"3": "block/cake_top",
 		"4": "block/cake_top_cherries",
-		"5": "block/cake_side"
+		"5": "block/cake_side",
+		"particle": "block/cake_top"
 	},
 	"elements": [
 		{
