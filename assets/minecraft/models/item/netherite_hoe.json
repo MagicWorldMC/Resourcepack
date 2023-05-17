@@ -4,12 +4,17 @@
         "layer0": "minecraft:item/netherite_hoe"
     },
     "overrides": [
+        {"predicate": { "custom_model_data": 17001 }, "model": "item/custom/wands/wand_ancient"},
+
         {"predicate": { "custom_model_data": 18001 }, "model": "item/custom/wands/wand_oak"},
         {"predicate": { "custom_model_data": 18002 }, "model": "item/custom/wands/wand_acacia"},
         {"predicate": { "custom_model_data": 18003 }, "model": "item/custom/wands/wand_ash"},
         {"predicate": { "custom_model_data": 18004 }, "model": "item/custom/wands/wand_spruce"},
         {"predicate": { "custom_model_data": 18005 }, "model": "item/custom/wands/wand_redwood"},
         {"predicate": { "custom_model_data": 18006 }, "model": "item/custom/wands/wand_blackthorn"},
-        {"predicate": { "custom_model_data": 18007 }, "model": "item/custom/wands/wand_ancient"}
+
+        {"predicate": { "custom_model_data": 19001 }, "model": "item/custom/wands/wand_ribbled_oak"},
+
+        {"predicate": { "custom_model_data": 20001 }, "model": "item/custom/wands/wand_spiral_oak"}
     ]
 }
