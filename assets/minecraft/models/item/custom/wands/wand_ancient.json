@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Jazzkuh with Blockbench",
 	"textures": {
-		"0": "custom/wand/glow",
+		"0": "custom/wand/glow_purple",
 		"1": "block/oak_fence",
-		"particle": "custom/wand/glow"
+		"particle": "custom/wand/glow_purple"
 	},
 	"elements": [
 		{
