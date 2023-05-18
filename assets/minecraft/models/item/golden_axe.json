@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/golden_axe"
+    },
+    "overrides": [
+        {"predicate": { "custom_model_data": 18000 }, "model": "item/custom/spells/disabled"},
+
+        {"predicate": { "custom_model_data": 18001 }, "model": "item/custom/spells/basic_cast"},
+        {"predicate": { "custom_model_data": 18002 }, "model": "item/custom/spells/confrungus"},
+        {"predicate": { "custom_model_data": 18003 }, "model": "item/custom/spells/bombasto"},
+        {"predicate": { "custom_model_data": 18004 }, "model": "item/custom/spells/desarmio"}
+    ]
+}

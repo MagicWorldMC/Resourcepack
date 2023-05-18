@@ -1,0 +1,8 @@
+{
+    "parent" : "item/custom/icon",
+    "gui_light": "side",
+    "textures": {
+        "particle": "custom/spells/disabled",
+        "texture": "custom/spells/disabled"
+    }
+}

@@ -1,0 +1,777 @@
+{
+    "magic.bonk": {
+        "sounds": [
+            "minecraft:spells/bonk1",
+            "minecraft:spells/bonk2",
+            "minecraft:spells/bonk3",
+            "minecraft:spells/bonk4"
+        ],
+        "category": "player"
+    },
+    "magic.sonic": {
+        "sounds": [
+            "minecraft:spells/sonic"
+        ],
+        "category": "player"
+    },
+    "magic.crack": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/crack1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/crack1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/crack1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/crack1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/crack1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.electrify": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/electrify1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/electrify1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/electrify1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/electrify1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/electrify1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.hit": {
+        "sounds": [
+            "minecraft:spells/hit1",
+            "minecraft:spells/hit2",
+            "minecraft:spells/hit3",
+            "minecraft:spells/hit4"
+        ],
+        "category": "player"
+    },
+    "magic.shimmer_crack": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/shimmer_crack1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/shimmer_crack1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/shimmer_crack1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/shimmer_crack1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/shimmer_crack1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.shimmer": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/shimmer1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/shimmer1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/shimmer1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/shimmer1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/shimmer1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.zap_crack": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/zap_crack1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/zap_crack1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/zap_crack1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/zap_crack1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/zap_crack1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.zap": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/zap1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/zap1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/zap1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/zap1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/zap1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.zap_big": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/zap_big1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/zap_big1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/zap_big1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/zap_big1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/zap_big1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.teleport": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/teleport1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/teleport1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/teleport1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/teleport1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/teleport1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            },
+            {
+                "name": "minecraft:spells/teleport2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/teleport2",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/teleport2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/teleport2",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/teleport2",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.shield": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/shield1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/shield1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/shield1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/shield1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/shield1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.burn": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/burn1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/burn1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/burn1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/burn1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/burn1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.ignite": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/ignite1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/ignite1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/ignite1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/ignite1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/ignite1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.shimmer_quiet": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/shimmer_quiet1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/shimmer_quiet1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/shimmer_quiet1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/shimmer_quiet1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/shimmer_quiet1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.flying": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/flying1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/flying1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/flying1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/flying1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/flying1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.paperturn": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/paperturn1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/paperturn1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/paperturn1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/paperturn1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/paperturn1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.wandup": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/wandup1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/wandup1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/wandup1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/wandup1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/wandup1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.wanddown": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/wanddown1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/wanddown1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/wanddown1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/wanddown1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/wanddown1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.shimmer_big": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/shimmer_big1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/shimmer_big1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/shimmer_big1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/shimmer_big1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/shimmer_big1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.shield_boom": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/shield_boom1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/shield_boom1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/shield_boom1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/shield_boom1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/shield_boom1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.zap_up": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/zap_up1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/zap_up1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/zap_up1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/zap_up1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/zap_up1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    },
+    "magic.vanish": {
+        "sounds": [
+            {
+                "name": "minecraft:spells/vanish1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1,
+                "weight": 3
+            },
+            {
+                "name": "minecraft:spells/vanish1",
+                "stream": false,
+                "volume": 0.9,
+                "pitch": 0.7
+            },
+            {
+                "name": "minecraft:spells/vanish1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 0.8
+            },
+            {
+                "name": "minecraft:spells/vanish1",
+                "stream": false,
+                "volume": 0.8,
+                "pitch": 1.2
+            },
+            {
+                "name": "minecraft:spells/vanish1",
+                "stream": false,
+                "volume": 1,
+                "pitch": 1.3
+            }
+        ],
+        "category": "player"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent" : "item/custom/icon",
+    "textures": {
+        "particle": "custom/spells/confrungus",
+        "texture": "custom/spells/confrungus"
+    }
+}
