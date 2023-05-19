@@ -9,6 +9,8 @@
         {"predicate": { "custom_model_data": 18001 }, "model": "item/custom/spells/basic_cast"},
         {"predicate": { "custom_model_data": 18002 }, "model": "item/custom/spells/confrungus"},
         {"predicate": { "custom_model_data": 18003 }, "model": "item/custom/spells/bombasto"},
-        {"predicate": { "custom_model_data": 18004 }, "model": "item/custom/spells/desarmio"}
+        {"predicate": { "custom_model_data": 18004 }, "model": "item/custom/spells/desarmio"},
+        {"predicate": { "custom_model_data": 18005 }, "model": "item/custom/spells/incendo"},
+        {"predicate": { "custom_model_data": 18006 }, "model": "item/custom/spells/diffindio"}
     ]
 }
