@@ -1,0 +1,6 @@
+{
+	"parent": "item/custom/filler_backbutton",
+	"textures": {
+		"1": "custom/plus"
+	}
+}

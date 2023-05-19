@@ -1,0 +1,7 @@
+{
+    "parent" : "item/custom/icon",
+    "textures": {
+        "particle": "custom/spells/motus_subsisto",
+        "texture": "custom/spells/motus_subsisto"
+    }
+}

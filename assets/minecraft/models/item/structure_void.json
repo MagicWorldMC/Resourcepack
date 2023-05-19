@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/structure_void"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 18001}, "model": "item/custom/icon/filler"},
+        {"predicate": {"custom_model_data": 18002}, "model": "item/custom/icon/filler_up"},
+        {"predicate": {"custom_model_data": 18003}, "model": "item/custom/icon/filler_side"},
+        {"predicate": {"custom_model_data": 18004}, "model": "item/custom/icon/filler_backbutton"},
+        {"predicate": {"custom_model_data": 18005}, "model": "item/custom/icon/filler_plus"},
+
+        {"predicate": {"custom_model_data": 19001}, "model": "item/custom/icon/back"},
+        {"predicate": {"custom_model_data": 19002}, "model": "item/custom/icon/next"},
+        {"predicate": {"custom_model_data": 19003}, "model": "item/custom/icon/plus"}
+    ]
+}
