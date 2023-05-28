@@ -1,6 +1,7 @@
 {
+	"credit": "Made by Jazzkuh with Blockbench",
 	"parent": "item/custom/icon/filler_backbutton",
 	"textures": {
-		"1": "custom/icons/plus"
+		"1": "item/barrier"
 	}
 }

@@ -23,8 +23,8 @@
 		},
 		{
 			"name": "Pane",
-			"from": [-9, 0, 0],
-			"to": [0, 8.99, 0],
+			"from": [9, 0, 0],
+			"to": [18, 8.99, 0],
 			"shade": false,
 			"faces": {
 				"north": {"uv": [5, 2.1875, 6, 3.1875], "texture": "#texture"},
@@ -37,8 +37,8 @@
 		},
 		{
 			"name": "Pane",
-			"from": [-9, 0, 0.01],
-			"to": [0, 8.99, 0.01],
+			"from": [9, 0, 0.01],
+			"to": [18, 8.99, 0.01],
 			"shade": false,
 			"faces": {
 				"north": {"uv": [5, 2.1875, 6, 3.1875], "texture": "#texture"},
