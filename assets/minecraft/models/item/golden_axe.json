@@ -17,6 +17,10 @@
         {"predicate": { "custom_model_data": 18009 }, "model": "item/custom/spells/levitatius"},
         {"predicate": { "custom_model_data": 18010 }, "model": "item/custom/spells/motus_subsisto"},
         {"predicate": { "custom_model_data": 18011 }, "model": "item/custom/spells/accioso"},
-        {"predicate": { "custom_model_data": 18012 }, "model": "item/custom/spells/repello"}
+        {"predicate": { "custom_model_data": 18012 }, "model": "item/custom/spells/repello"},
+        {"predicate": { "custom_model_data": 18013 }, "model": "item/custom/spells/ascendo"},
+        {"predicate": { "custom_model_data": 18014 }, "model": "item/custom/spells/apparatio"},
+        {"predicate": { "custom_model_data": 18015 }, "model": "item/custom/spells/avadacadaver"},
+        {"predicate": { "custom_model_data": 18016 }, "model": "item/custom/spells/tormentio"}
     ]
 }
