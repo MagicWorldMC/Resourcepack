@@ -1,18 +1,6 @@
 {
     "providers": [
         {
-            "type": "bitmap",
-            "file": "minecraft:font/ascii.png",
-            "ascent": 7,
-            "skip": [" "]
-        },
-        {
-            "type": "bitmap",
-            "file": "minecraft:font/nonlatin_european.png",
-            "ascent": 7,
-            "skip": [" "]
-        },
-        {
             "file": "minecraft:custom/icons/whitespace.png",
             "chars": [
                 ""
