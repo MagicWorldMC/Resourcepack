@@ -1,7 +1,6 @@
 {
 	"credit": "Created by Droobledore with BDcraft Cubik PRO 0.93 Beta. Used with permission in NathanWolf's Magic plugin.",
 	"ambientocclusion": false,
-	"gui_light": "front",
 	"textures": {
 		"particle": "custom/broom",
 		"texture": "custom/broom"
@@ -424,6 +423,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [90, 90, 0],
@@ -455,7 +455,7 @@
 		},
 		"head": {
 			"rotation": [0, 90, 0],
-			"translation": [0, -37, 0],
+			"translation": [0, 3.5, 0],
 			"scale": [4, 4, 4]
 		},
 		"fixed": {
