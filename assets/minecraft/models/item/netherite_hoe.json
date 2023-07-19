@@ -14,7 +14,17 @@
         {"predicate": { "custom_model_data": 18006 }, "model": "item/custom/wands/wand_blackthorn"},
 
         {"predicate": { "custom_model_data": 19001 }, "model": "item/custom/wands/wand_ribbled_oak"},
+        {"predicate": { "custom_model_data": 19002 }, "model": "item/custom/wands/wand_ribbled_acacia"},
+        {"predicate": { "custom_model_data": 19003 }, "model": "item/custom/wands/wand_ribbled_ash"},
+        {"predicate": { "custom_model_data": 19004 }, "model": "item/custom/wands/wand_ribbled_spruce"},
+        {"predicate": { "custom_model_data": 19005 }, "model": "item/custom/wands/wand_ribbled_redwood"},
+        {"predicate": { "custom_model_data": 19006 }, "model": "item/custom/wands/wand_ribbled_blackthorn"},
 
-        {"predicate": { "custom_model_data": 20001 }, "model": "item/custom/wands/wand_spiral_oak"}
+        {"predicate": { "custom_model_data": 20001 }, "model": "item/custom/wands/wand_spiral_oak"},
+        {"predicate": { "custom_model_data": 20002 }, "model": "item/custom/wands/wand_spiral_acacia"},
+        {"predicate": { "custom_model_data": 20003 }, "model": "item/custom/wands/wand_spiral_ash"},
+        {"predicate": { "custom_model_data": 20004 }, "model": "item/custom/wands/wand_spiral_spruce"},
+        {"predicate": { "custom_model_data": 20005 }, "model": "item/custom/wands/wand_spiral_redwood"},
+        {"predicate": { "custom_model_data": 20006 }, "model": "item/custom/wands/wand_spiral_blackthorn"}
     ]
 }
