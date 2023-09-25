@@ -32,3 +32,5 @@ https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-
 - Brewingstand, golden cup, fruit bowl are made by Klimdanick.
 
 - Sorting hat is made by RedstoneMvv.
+
+- Leaves texture/models https://vanillatweaks.net/picker/resource-packs/

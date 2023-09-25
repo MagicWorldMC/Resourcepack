@@ -1,23 +1,14 @@
 {
-    "__comment": "JimStoneCraft - 2020",
     "variants": {
         "": [
-            { "model": "minecraft:block/acacia_leaves" },
-            { "model": "minecraft:block/acacia_leaves", "x": 90 },
-            { "model": "minecraft:block/acacia_leaves", "x": 180 },
-            { "model": "minecraft:block/acacia_leaves", "x": 270 },
-            { "model": "minecraft:block/acacia_leaves", "y": 90 },
-            { "model": "minecraft:block/acacia_leaves", "y": 90, "x": 90 },
-            { "model": "minecraft:block/acacia_leaves", "y": 90, "x": 180 },
-            { "model": "minecraft:block/acacia_leaves", "y": 90, "x": 270 },
-            { "model": "minecraft:block/acacia_leaves", "y": 180 },
-            { "model": "minecraft:block/acacia_leaves", "y": 180, "x": 90 },
-            { "model": "minecraft:block/acacia_leaves", "y": 180, "x": 180 },
-            { "model": "minecraft:block/acacia_leaves", "y": 180, "x": 270 },
-            { "model": "minecraft:block/acacia_leaves", "y": 270 },
-            { "model": "minecraft:block/acacia_leaves", "y": 270, "x": 90 },
-            { "model": "minecraft:block/acacia_leaves", "y": 270, "x": 180 },
-            { "model": "minecraft:block/acacia_leaves", "y": 270, "x": 270 }
-        ]
+		{ "model": "block/acacia_leaves1" },
+		{ "model": "block/acacia_leaves2" },
+		{ "model": "block/acacia_leaves3" },
+		{ "model": "block/acacia_leaves4" },
+		{ "model": "block/acacia_leaves5" },
+		{ "model": "block/acacia_leaves6" },
+		{ "model": "block/acacia_leaves7" },
+		{ "model": "block/acacia_leaves8" }
+		]
     }
 }

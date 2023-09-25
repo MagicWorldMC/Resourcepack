@@ -1,7 +1,8 @@
 {
-    "__comment": "JimStoneCraft - 2020",
-    "parent": "minecraft:block/leaves",
+    "parent": "block/leaves2",
     "textures": {
-        "all": "minecraft:block/spruce_leaves2"
+        "all": "block/spruce_leaves",
+		"bush": "block/spruce_leaves_bush1",
+		"dark_bush": "block/spruce_leaves_bush1_dark"
     }
 }
