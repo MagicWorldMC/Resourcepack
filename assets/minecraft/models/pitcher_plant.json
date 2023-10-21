@@ -1,7 +1,0 @@
-{
-    "__comment": "JimStoneCraft - 2023",
-    "parent": "minecraft:block/custom_cross",
-    "textures": {
-        "cross": "minecraft:block/pitcher_crop_top_stage_4"
-    }
-}
