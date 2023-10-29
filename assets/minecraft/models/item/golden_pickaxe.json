@@ -5,6 +5,8 @@
     },
     "overrides": [
         {"predicate": { "custom_model_data": 18001 }, "model": "item/custom/hats/eyes"},
-        {"predicate": { "custom_model_data": 18002 }, "model": "item/custom/hats/elf_ears"}
+        {"predicate": { "custom_model_data": 18002 }, "model": "item/custom/hats/elf_ears"},
+
+        {"predicate": { "custom_model_data": 20001 }, "model": "item/custom/glove"}
     ]
 }
