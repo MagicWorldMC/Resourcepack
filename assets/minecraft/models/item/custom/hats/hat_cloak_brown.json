@@ -1,0 +1,8 @@
+{
+	"parent": "item/custom/hats/hat_cloak",
+    "textures": {
+        "particle": "block/brown_concrete",
+        "hat_deatheater_top": "block/brown_concrete",
+        "texture": "block/brown_concrete"
+    }
+}
