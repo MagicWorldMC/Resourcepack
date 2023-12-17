@@ -34,3 +34,5 @@ https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-
 - Sorting hat is made by RedstoneMvv.
 
 - Leaves texture/models https://vanillatweaks.net/picker/resource-packs/
+
+- NoShadow shaders are from https://github.com/PuckiSilver/NoShadow

@@ -2332,8 +2332,27 @@
                 ""
             ]
         },
+
         {
-            "__comment": "Negative 1 pixel space",
+            "type": "bitmap",
+            "file": "minecraft:custom/font/background_end.png",
+            "ascent": 6,
+            "height": 14,
+            "chars": [
+                "ሉ"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/font/background.png",
+            "ascent": 6,
+            "height": 14,
+            "chars": [
+                "ለ"
+            ]
+        },
+        {
+            "__comment": "Negative 1 pixel space for UI",
             "type": "bitmap",
             "file": "minecraft:custom/icons/space.png",
             "ascent": -32768,
@@ -2342,6 +2361,7 @@
                 ""
             ]
         },
+
         {
             "type": "bitmap",
             "file": "minecraft:custom/compass/compass_00.png",
@@ -2680,6 +2700,9 @@
         {"type": "bitmap","file": "minecraft:custom/icons/house_rattlesnake.png", "ascent": 8, "height": 9, "chars": ["\uE002"]},
         {"type": "bitmap","file": "minecraft:custom/icons/house_badger.png", "ascent": 8, "height": 9, "chars": ["\uE003"]},
         {"type": "bitmap","file": "minecraft:custom/icons/house_raventail.png", "ascent": 8, "height": 9, "chars": ["\uE004"]},
+
+        {"type": "bitmap","file": "minecraft:custom/font/gold.png", "ascent": 8, "height": 12, "chars": ["\uE005"]},
+        {"type": "bitmap","file": "minecraft:custom/font/compass.png", "ascent": 8, "height": 12, "chars": ["\uE006"]},
 
         {"type": "bitmap","file": "minecraft:custom/badge/tag_normal.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC001"]},
         {"type": "bitmap","file": "minecraft:custom/badge/tag_epic.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC002"]},
