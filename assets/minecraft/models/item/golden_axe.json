@@ -21,6 +21,7 @@
         {"predicate": { "custom_model_data": 18013 }, "model": "item/custom/spells/ascendo"},
         {"predicate": { "custom_model_data": 18014 }, "model": "item/custom/spells/apparatio"},
         {"predicate": { "custom_model_data": 18015 }, "model": "item/custom/spells/avadacadaver"},
-        {"predicate": { "custom_model_data": 18016 }, "model": "item/custom/spells/tormentio"}
+        {"predicate": { "custom_model_data": 18016 }, "model": "item/custom/spells/tormentio"},
+        {"predicate": { "custom_model_data": 18017 }, "model": "item/custom/spells/lumen"}
     ]
 }

@@ -5,6 +5,40 @@
     },
     "overrides": [
         {"predicate": { "custom_model_data": 18001 }, "model": "item/custom/blocks/broomstick"},
-        {"predicate": { "custom_model_data": 18002 }, "model": "item/custom/blocks/broomstick2"}
+        {"predicate": { "custom_model_data": 18002 }, "model": "item/custom/blocks/broomstick2"},
+
+        {"predicate": { "custom_model_data": 18003 }, "model": "item/custom/blocks/tavern/tavern_barrel_triple"},
+        {"predicate": { "custom_model_data": 18004 }, "model": "item/custom/blocks/tavern/tavern_barrel"},
+        {"predicate": { "custom_model_data": 18005 }, "model": "item/custom/blocks/tavern/tavern_bench"},
+        {"predicate": { "custom_model_data": 18006 }, "model": "item/custom/blocks/tavern/tavern_bottle"},
+        {"predicate": { "custom_model_data": 18007 }, "model": "item/custom/blocks/tavern/tavern_bottle2"},
+        {"predicate": { "custom_model_data": 18008 }, "model": "item/custom/blocks/tavern/tavern_chair"},
+        {"predicate": { "custom_model_data": 18009 }, "model": "item/custom/blocks/tavern/tavern_mug"},
+        {"predicate": { "custom_model_data": 18010 }, "model": "item/custom/blocks/tavern/tavern_keg_triple"},
+        {"predicate": { "custom_model_data": 18011 }, "model": "item/custom/blocks/tavern/tavern_keg"},
+        {"predicate": { "custom_model_data": 18012 }, "model": "item/custom/blocks/tavern/tavern_table_long"},
+        {"predicate": { "custom_model_data": 18013 }, "model": "item/custom/blocks/tavern/tavern_table"},
+
+        {"predicate": { "custom_model_data": 18014 }, "model": "item/custom/blocks/board_01"},
+        {"predicate": { "custom_model_data": 18015 }, "model": "item/custom/blocks/board_02"},
+        {"predicate": { "custom_model_data": 18016 }, "model": "item/custom/blocks/board_03"},
+
+        {"predicate": { "custom_model_data": 18017 }, "model": "item/custom/blocks/graveyard/dead_grave_flower_vase"},
+        {"predicate": { "custom_model_data": 18018 }, "model": "item/custom/blocks/graveyard/dead_grave_flowers"},
+        {"predicate": { "custom_model_data": 18019 }, "model": "item/custom/blocks/graveyard/grave_flower_vase"},
+        {"predicate": { "custom_model_data": 18020 }, "model": "item/custom/blocks/graveyard/grave_flowers"},
+        {"predicate": { "custom_model_data": 18021 }, "model": "item/custom/blocks/graveyard/gravestone_type_1"},
+        {"predicate": { "custom_model_data": 18022 }, "model": "item/custom/blocks/graveyard/gravestone_type_2"},
+        {"predicate": { "custom_model_data": 18023 }, "model": "item/custom/blocks/graveyard/gravestone_type_3"},
+        {"predicate": { "custom_model_data": 18024 }, "model": "item/custom/blocks/graveyard/gravestone_type_4"},
+        {"predicate": { "custom_model_data": 18025 }, "model": "item/custom/blocks/graveyard/gravestone_type_5"},
+        {"predicate": { "custom_model_data": 18026 }, "model": "item/custom/blocks/graveyard/gravestone_type_6"},
+        {"predicate": { "custom_model_data": 18027 }, "model": "item/custom/blocks/graveyard/gravestone_type_7"},
+        {"predicate": { "custom_model_data": 18028 }, "model": "item/custom/blocks/graveyard/gravestone_type_8"},
+        {"predicate": { "custom_model_data": 18029 }, "model": "item/custom/blocks/graveyard/gravestone_type_9"},
+        {"predicate": { "custom_model_data": 18030 }, "model": "item/custom/blocks/graveyard/lying_skeleton"},
+        {"predicate": { "custom_model_data": 18031 }, "model": "item/custom/blocks/graveyard/sitting_skeleton"},
+        {"predicate": { "custom_model_data": 18032 }, "model": "item/custom/blocks/graveyard/wilted_grave_flower_vase"},
+        {"predicate": { "custom_model_data": 18033 }, "model": "item/custom/blocks/graveyard/wilted_grave_flowers"}
     ]
 }

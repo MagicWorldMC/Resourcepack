@@ -36,3 +36,5 @@ https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-
 - Leaves texture/models https://vanillatweaks.net/picker/resource-packs/
 
 - NoShadow shaders are from https://github.com/PuckiSilver/NoShadow
+
+- Pancake & berry pie are from https://www.planetminecraft.com/texture-pack/banquet-pack/
