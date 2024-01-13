@@ -27,7 +27,7 @@ https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-
 
 - The base for this Resource Pack is John Smith Legacy. (See above)
 
-- "Glow" texture for the wands, "Spell" icon model, Cloak hat, Broomstick and magic sounds are from the Magic Resource Pack (https://github.com/elBukkit/Magic-RP)
+- "Glow" texture for the wands, "Spell" icon model, Magic hat, Cloak hat, Broomstick and magic sounds are from the Magic Resource Pack (https://github.com/elBukkit/Magic-RP)
 
 - Golden cup, fruit bowl are made by Klimdanick.
 

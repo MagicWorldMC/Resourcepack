@@ -39,6 +39,22 @@
         {"predicate": { "custom_model_data": 18030 }, "model": "item/custom/blocks/graveyard/lying_skeleton"},
         {"predicate": { "custom_model_data": 18031 }, "model": "item/custom/blocks/graveyard/sitting_skeleton"},
         {"predicate": { "custom_model_data": 18032 }, "model": "item/custom/blocks/graveyard/wilted_grave_flower_vase"},
-        {"predicate": { "custom_model_data": 18033 }, "model": "item/custom/blocks/graveyard/wilted_grave_flowers"}
+        {"predicate": { "custom_model_data": 18033 }, "model": "item/custom/blocks/graveyard/wilted_grave_flowers"},
+
+        {"predicate": { "custom_model_data": 18034 }, "model": "item/custom/blocks/merchant/apple_basket_stand"},
+        {"predicate": { "custom_model_data": 18035 }, "model": "item/custom/blocks/merchant/basket_with_health_potions"},
+        {"predicate": { "custom_model_data": 18036 }, "model": "item/custom/blocks/merchant/scrolls"},
+        {"predicate": { "custom_model_data": 18037 }, "model": "item/custom/blocks/merchant/purple_merchant_booth"},
+        {"predicate": { "custom_model_data": 18038 }, "model": "item/custom/blocks/merchant/empty_basket_stand"},
+        {"predicate": { "custom_model_data": 18039 }, "model": "item/custom/blocks/merchant/empty_basket"},
+        {"predicate": { "custom_model_data": 18040 }, "model": "item/custom/blocks/merchant/red_merchant_booth"},
+
+        {"predicate": { "custom_model_data": 18041}, "model": "item/custom/blocks/medieval_market_wagon_red"},
+        {"predicate": { "custom_model_data": 18042 }, "model": "item/custom/blocks/medieval_market_wagon_purple"},
+        {"predicate": { "custom_model_data": 18043 }, "model": "item/custom/blocks/medieval_market_campfire"},
+        {"predicate": { "custom_model_data": 18044 }, "model": "item/custom/blocks/medieval_market_haybales"},
+        {"predicate": { "custom_model_data": 18045 }, "model": "item/custom/blocks/medieval_market_well"},
+        {"predicate": { "custom_model_data": 18046 }, "model": "item/custom/blocks/medieval_market_wood_pile"},
+        {"predicate": { "custom_model_data": 18047 }, "model": "item/custom/blocks/medieval_market_direction_sign"}
     ]
 }

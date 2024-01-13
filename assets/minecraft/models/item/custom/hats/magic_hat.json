@@ -1,0 +1,703 @@
+{
+	"credit": "Created by Droobledore with BDcraft Cubik PRO 0.93 Beta. Used with permission in NathanWolf's Magic plugin.",
+	"parent": "magic:base/lit",
+	"texture_size": [8, 8],
+	"textures": {
+		"1": "custom/hat_wizard_colorable",
+		"particle": "custom/hat_wizard",
+		"texture": "custom/hat_wizard"
+	},
+	"elements": [
+		{
+			"name": "Hat_wizard",
+			"from": [0, 11, 7],
+			"to": [10, 12, 9],
+			"faces": {
+				"north": {"uv": [6.001, 4.001, 15.999, 4.999], "texture": "#texture"},
+				"east": {"uv": [7.001, 4.001, 8.999, 4.999], "texture": "#texture"},
+				"south": {"uv": [0.001, 4.001, 9.999, 4.999], "texture": "#texture"},
+				"west": {"uv": [7.001, 4.001, 8.999, 4.999], "texture": "#texture", "cullface": "west"},
+				"up": {"uv": [0.001, 0.001, 9.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [15.999, 8.999, 6.001, 7.001], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [1, 10, 7],
+			"to": [11, 11, 9],
+			"faces": {
+				"north": {"uv": [5.001, 5.001, 14.999, 5.999], "texture": "#texture"},
+				"east": {"uv": [7.001, 5.001, 8.999, 5.999], "texture": "#texture"},
+				"south": {"uv": [1.001, 5.001, 10.999, 5.999], "texture": "#texture"},
+				"west": {"uv": [7.001, 5.001, 8.999, 5.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 9.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [14.999, 8.999, 5.001, 7.001], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [2, 12, 7],
+			"to": [7, 13, 9],
+			"faces": {
+				"north": {"uv": [2.001, 3.001, 6.999, 3.999], "texture": "#texture"},
+				"east": {"uv": [7.001, 3.001, 8.999, 3.999], "texture": "#texture"},
+				"south": {"uv": [2.001, 3.001, 6.999, 3.999], "texture": "#texture"},
+				"west": {"uv": [7.001, 3.001, 8.999, 3.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 0.499, 0.499], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [3, 3, 6],
+			"to": [16, 4, 10],
+			"faces": {
+				"north": {"uv": [0.001, 12.001, 12.999, 12.999], "texture": "#texture"},
+				"south": {"uv": [3.001, 12.001, 15.999, 12.999], "texture": "#texture"},
+				"west": {"uv": [6.001, 12.001, 9.999, 12.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 12.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [12.999, 15.999, 0.001, 15.501], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [3, 11, 6],
+			"to": [9, 12, 7],
+			"faces": {
+				"north": {"uv": [7.001, 4.001, 12.999, 4.999], "texture": "#texture"},
+				"east": {"uv": [9.001, 4.001, 9.999, 4.999], "texture": "#texture"},
+				"west": {"uv": [6.001, 4.001, 6.999, 4.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 5.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [12.999, 6.999, 7.001, 6.001], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [3, 11, 9],
+			"to": [9, 12, 10],
+			"faces": {
+				"east": {"uv": [6.001, 4.001, 6.999, 4.999], "texture": "#texture"},
+				"south": {"uv": [3.001, 4.001, 8.999, 4.999], "texture": "#texture"},
+				"west": {"uv": [9.001, 4.001, 9.999, 4.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 5.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [12.999, 9.999, 7.001, 9.001], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [4, 3, 4],
+			"to": [16, 4, 6],
+			"faces": {
+				"north": {"uv": [0.001, 12.001, 11.999, 12.999], "texture": "#texture"},
+				"east": {"uv": [10.001, 12.001, 11.999, 12.999], "texture": "#texture", "cullface": "east"},
+				"west": {"uv": [4.001, 12.001, 5.999, 12.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 11.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [11.999, 15.999, 0.001, 15.501], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [4, 10, 6],
+			"to": [11, 11, 7],
+			"faces": {
+				"north": {"uv": [5.001, 5.001, 11.999, 5.999], "texture": "#texture"},
+				"east": {"uv": [9.001, 5.001, 9.999, 5.999], "texture": "#texture"},
+				"west": {"uv": [6.001, 5.001, 6.999, 5.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 6.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [11.999, 6.999, 5.001, 6.001], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [4, 9, 7],
+			"to": [12, 10, 9],
+			"faces": {
+				"north": {"uv": [4.001, 6.001, 11.999, 6.999], "texture": "#texture"},
+				"east": {"uv": [7.001, 6.001, 8.999, 6.999], "texture": "#texture"},
+				"south": {"uv": [4.001, 6.001, 11.999, 6.999], "texture": "#texture"},
+				"west": {"uv": [7.001, 6.001, 8.999, 6.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 7.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [11.999, 8.999, 4.001, 7.001], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [4, 10, 9],
+			"to": [11, 11, 10],
+			"faces": {
+				"east": {"uv": [6.001, 5.001, 6.999, 5.999], "texture": "#texture"},
+				"south": {"uv": [4.001, 5.001, 10.999, 5.999], "texture": "#texture"},
+				"west": {"uv": [9.001, 5.001, 9.999, 5.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 6.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [11.999, 9.999, 5.001, 9.001], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [4, 3, 10],
+			"to": [16, 4, 12],
+			"faces": {
+				"east": {"uv": [4.001, 12.001, 5.999, 12.999], "texture": "#texture", "cullface": "east"},
+				"south": {"uv": [4.001, 12.001, 15.999, 12.999], "texture": "#texture"},
+				"west": {"uv": [10.001, 12.001, 11.999, 12.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 11.499, 0.999], "texture": "#texture"},
+				"down": {"uv": [11.999, 15.999, 0.001, 15.501], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [5, 3, 3],
+			"to": [15, 4, 4],
+			"faces": {
+				"north": {"uv": [1.001, 12.001, 10.999, 12.999], "texture": "#texture"},
+				"east": {"uv": [12.001, 12.001, 12.999, 12.999], "texture": "#texture"},
+				"west": {"uv": [3.001, 12.001, 3.999, 12.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 9.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [9.999, 15.999, 0.001, 15.501], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [5, 9, 6],
+			"to": [11, 10, 7],
+			"faces": {
+				"north": {"uv": [5.001, 6.001, 10.999, 6.999], "texture": "#texture"},
+				"east": {"uv": [9.001, 6.001, 9.999, 6.999], "texture": "#texture"},
+				"west": {"uv": [6.001, 6.001, 6.999, 6.999], "texture": "#texture"},
+				"down": {"uv": [10.999, 6.999, 5.001, 6.001], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [5, 4, 7],
+			"to": [14, 5, 9],
+			"faces": {
+				"north": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [5, 8, 7],
+			"to": [13, 9, 9],
+			"faces": {
+				"north": {"uv": [3.001, 7.001, 10.999, 7.999], "texture": "#texture"},
+				"east": {"uv": [7.001, 7.001, 8.999, 7.999], "texture": "#texture"},
+				"south": {"uv": [5.001, 7.001, 12.999, 7.999], "texture": "#texture"},
+				"west": {"uv": [7.001, 7.001, 8.999, 7.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 7.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [10.999, 8.999, 3.001, 7.001], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [5, 9, 9],
+			"to": [11, 10, 10],
+			"faces": {
+				"east": {"uv": [6.001, 6.001, 6.999, 6.999], "texture": "#texture"},
+				"south": {"uv": [5.001, 6.001, 10.999, 6.999], "texture": "#texture"},
+				"west": {"uv": [9.001, 6.001, 9.999, 6.999], "texture": "#texture"},
+				"down": {"uv": [10.999, 9.999, 5.001, 9.001], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [5, 3, 12],
+			"to": [15, 4, 13],
+			"faces": {
+				"east": {"uv": [3.001, 12.001, 3.999, 12.999], "texture": "#texture"},
+				"south": {"uv": [5.001, 12.001, 14.999, 12.999], "texture": "#texture"},
+				"west": {"uv": [12.001, 12.001, 12.999, 12.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 9.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [9.499, 15.999, 0.001, 15.501], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [6, 3, 2],
+			"to": [14, 4, 3],
+			"faces": {
+				"north": {"uv": [2.001, 12.001, 9.999, 12.999], "texture": "#texture"},
+				"east": {"uv": [13.001, 12.001, 13.999, 12.999], "texture": "#texture"},
+				"west": {"uv": [2.001, 12.001, 2.999, 12.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 7.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [7.999, 15.999, 0.001, 15.501], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [6, 4, 5],
+			"to": [14, 5, 7],
+			"faces": {
+				"north": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [6, 7, 6],
+			"to": [13, 8, 10],
+			"faces": {
+				"north": {"uv": [3.001, 8.001, 9.999, 8.999], "texture": "#texture"},
+				"east": {"uv": [6.001, 8.001, 9.999, 8.999], "texture": "#texture"},
+				"south": {"uv": [6.001, 8.001, 12.999, 8.999], "texture": "#texture"},
+				"west": {"uv": [6.001, 8.001, 9.999, 8.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 6.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [9.999, 9.999, 3.001, 6.001], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [6, 8, 6],
+			"to": [12, 9, 7],
+			"faces": {
+				"north": {"uv": [4.001, 7.001, 9.999, 7.999], "texture": "#texture"},
+				"east": {"uv": [9.001, 7.001, 9.999, 7.999], "texture": "#texture"},
+				"west": {"uv": [6.001, 7.001, 6.999, 7.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 5.999, 0.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [6, 6, 7],
+			"to": [13, 7, 9],
+			"faces": {
+				"north": {"uv": [3.001, 9.001, 9.999, 9.999], "texture": "#texture"},
+				"east": {"uv": [7.001, 9.001, 8.999, 9.999], "texture": "#texture"},
+				"south": {"uv": [6.001, 9.001, 12.999, 9.999], "texture": "#texture"},
+				"west": {"uv": [7.001, 9.001, 8.999, 9.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [6, 4, 9],
+			"to": [14, 5, 11],
+			"faces": {
+				"north": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [6, 8, 9],
+			"to": [12, 9, 10],
+			"faces": {
+				"east": {"uv": [6.001, 7.001, 6.999, 7.999], "texture": "#texture"},
+				"south": {"uv": [6.001, 7.001, 11.999, 7.999], "texture": "#texture"},
+				"west": {"uv": [9.001, 7.001, 9.999, 7.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 5.999, 0.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [6, 3, 13],
+			"to": [14, 4, 14],
+			"faces": {
+				"east": {"uv": [2.001, 12.001, 2.999, 12.999], "texture": "#texture"},
+				"south": {"uv": [6.001, 12.001, 13.999, 12.999], "texture": "#texture"},
+				"west": {"uv": [13.001, 12.001, 13.999, 12.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 7.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [9.499, 15.501, 1.501, 15.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [7, 4, 4],
+			"to": [13, 5, 5],
+			"faces": {
+				"north": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"name": "DroobledoreLLC",
+			"from": [7, 6, 5],
+			"to": [12, 7, 7],
+			"faces": {
+				"north": {"uv": [4.001, 9.001, 8.999, 9.999], "texture": "#texture"},
+				"east": {"uv": [9.001, 9.001, 10.999, 9.999], "texture": "#texture"},
+				"west": {"uv": [5.001, 9.001, 6.999, 9.999], "texture": "#texture"},
+				"up": {"uv": [7.001, 5.001, 11.999, 6.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [7, 7, 5],
+			"to": [8, 11, 6],
+			"faces": {
+				"north": {"uv": [8.001, 5.001, 8.999, 8.999], "texture": "#texture"},
+				"east": {"uv": [10.001, 5.001, 10.999, 8.999], "texture": "#texture"},
+				"south": {"uv": [7.001, 5.001, 7.999, 8.999], "texture": "#texture"},
+				"west": {"uv": [5.001, 5.001, 5.999, 8.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 0.999, 0.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [7, 6, 9],
+			"to": [12, 7, 11],
+			"faces": {
+				"east": {"uv": [5.001, 9.001, 6.999, 9.999], "texture": "#texture"},
+				"south": {"uv": [7.001, 9.001, 11.999, 9.999], "texture": "#texture"},
+				"west": {"uv": [9.001, 9.001, 10.999, 9.999], "texture": "#texture"},
+				"up": {"uv": [7.001, 9.001, 11.999, 10.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [7, 7, 10],
+			"to": [8, 11, 11],
+			"faces": {
+				"north": {"uv": [8.001, 5.001, 8.999, 8.999], "texture": "#texture"},
+				"east": {"uv": [5.001, 5.001, 5.999, 8.999], "texture": "#texture"},
+				"south": {"uv": [7.001, 5.001, 7.999, 8.999], "texture": "#texture"},
+				"west": {"uv": [10.001, 5.001, 10.999, 8.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 0.999, 0.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [7, 4, 11],
+			"to": [13, 5, 12],
+			"faces": {
+				"north": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [8, 7, 5],
+			"to": [10, 10, 6],
+			"faces": {
+				"north": {"uv": [6.001, 6.001, 7.999, 8.999], "texture": "#texture"},
+				"east": {"uv": [10.001, 6.001, 10.999, 8.999], "texture": "#texture"},
+				"south": {"uv": [8.001, 6.001, 9.999, 8.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 1.999, 0.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [8, 7, 10],
+			"to": [10, 10, 11],
+			"faces": {
+				"north": {"uv": [6.001, 6.001, 7.999, 8.999], "texture": "#texture"},
+				"east": {"uv": [5.001, 6.001, 5.999, 8.999], "texture": "#texture"},
+				"south": {"uv": [8.001, 6.001, 9.999, 8.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 1.999, 0.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [9, 3, 1],
+			"to": [11, 4, 2],
+			"faces": {
+				"north": {"uv": [5.001, 12.001, 6.999, 12.999], "texture": "#texture"},
+				"east": {"uv": [14.001, 12.001, 14.999, 12.999], "texture": "#texture"},
+				"west": {"uv": [1.001, 12.001, 1.999, 12.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 1.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [3.999, 15.999, 2.001, 15.501], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [9, 4, 3],
+			"to": [10, 5, 4],
+			"faces": {
+				"north": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [9, 6, 4],
+			"to": [10, 7, 5],
+			"faces": {
+				"north": {"uv": [6.001, 9.001, 6.999, 9.999], "texture": "#texture"},
+				"east": {"uv": [11.001, 9.001, 11.999, 9.999], "texture": "#texture"},
+				"west": {"uv": [4.001, 9.001, 4.999, 9.999], "texture": "#texture"},
+				"up": {"uv": [6.001, 9.001, 6.999, 9.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [9, 6, 11],
+			"to": [10, 7, 12],
+			"faces": {
+				"east": {"uv": [4.001, 9.001, 4.999, 9.999], "texture": "#texture"},
+				"south": {"uv": [9.001, 9.001, 9.999, 9.999], "texture": "#texture"},
+				"west": {"uv": [11.001, 9.001, 11.999, 9.999], "texture": "#texture"},
+				"up": {"uv": [6.001, 9.001, 6.999, 9.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [9, 4, 12],
+			"to": [10, 5, 13],
+			"faces": {
+				"north": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [9, 3, 14],
+			"to": [11, 4, 15],
+			"faces": {
+				"east": {"uv": [1.001, 12.001, 1.999, 12.999], "texture": "#texture"},
+				"south": {"uv": [9.001, 12.001, 10.999, 12.999], "texture": "#texture"},
+				"west": {"uv": [14.001, 12.001, 14.999, 12.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 1.999, 0.999], "texture": "#texture"},
+				"down": {"uv": [6.999, 15.999, 5.501, 15.501], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [10, 7, 5],
+			"to": [11, 9, 6],
+			"faces": {
+				"north": {"uv": [5.001, 7.001, 5.999, 8.999], "texture": "#texture"},
+				"east": {"uv": [10.001, 7.001, 10.999, 8.999], "texture": "#texture"},
+				"south": {"uv": [10.001, 7.001, 10.999, 8.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 0.999, 0.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [10, 7, 10],
+			"to": [11, 9, 11],
+			"faces": {
+				"north": {"uv": [5.001, 7.001, 5.999, 8.999], "texture": "#texture"},
+				"east": {"uv": [5.001, 7.001, 5.999, 8.999], "texture": "#texture"},
+				"south": {"uv": [10.001, 7.001, 10.999, 8.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 0.999, 0.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [11, 7, 5],
+			"to": [12, 8, 6],
+			"faces": {
+				"north": {"uv": [4.001, 8.001, 4.999, 8.999], "texture": "#texture"},
+				"east": {"uv": [10.001, 8.001, 10.999, 8.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 0.999, 0.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [11, 7, 10],
+			"to": [12, 8, 11],
+			"faces": {
+				"east": {"uv": [5.001, 8.001, 5.999, 8.999], "texture": "#texture"},
+				"south": {"uv": [11.001, 8.001, 11.999, 8.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 0.999, 0.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "RHJvb2JsZWRvcmVMTEM=",
+			"from": [12, 6, 6],
+			"to": [13, 7, 7],
+			"faces": {
+				"north": {"uv": [3.001, 9.001, 3.999, 9.999], "texture": "#texture"},
+				"east": {"uv": [9.001, 9.001, 9.999, 9.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [12, 6, 9],
+			"to": [13, 7, 10],
+			"faces": {
+				"east": {"uv": [6.001, 9.001, 6.999, 9.999], "texture": "#texture"},
+				"south": {"uv": [12.001, 9.001, 12.999, 9.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard*",
+			"from": [-1, 10.5, 7.5],
+			"to": [1, 11.5, 8.5],
+			"faces": {
+				"north": {"uv": [15.001, 4.501, 15.999, 5.499], "texture": "#texture", "cullface": "west"},
+				"east": {"uv": [7.501, 4.501, 8.499, 5.499], "texture": "#texture", "cullface": "west"},
+				"south": {"uv": [0.001, 4.501, 0.999, 5.499], "texture": "#texture", "cullface": "west"},
+				"west": {"uv": [7.501, 4.501, 8.499, 5.499], "texture": "#texture", "cullface": "west"},
+				"up": {"uv": [0.001, 0.001, 0.999, 0.999], "texture": "#texture", "cullface": "west"},
+				"down": {"uv": [15.999, 8.499, 15.001, 7.501], "texture": "#texture", "cullface": "west"}
+			}
+		},
+		{
+			"name": "Hat_wizard*",
+			"from": [16, 3, 6],
+			"to": [17, 4, 10],
+			"faces": {
+				"north": {"uv": [9.501, 12.001, 9.999, 12.999], "texture": "#texture"},
+				"east": {"uv": [9.499, 12.001, 9.001, 12.999], "texture": "#texture", "cullface": "east"},
+				"south": {"uv": [9.999, 12.001, 9.501, 12.999], "texture": "#texture"},
+				"up": {"uv": [0.999, 0.001, 0.001, 0.999], "texture": "#texture"},
+				"down": {"uv": [8.499, 15.999, 8.001, 15.501], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Hat_wizard*",
+			"from": [14, 4, 7],
+			"to": [15, 5, 9],
+			"faces": {
+				"north": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [5.001, 15.001, 5.999, 15.999], "texture": "#1", "tintindex": 0}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [6, 5, 9],
+			"to": [14, 6, 11],
+			"faces": {
+				"north": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"east": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"south": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"west": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"up": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"down": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [5, 5, 7],
+			"to": [14, 6, 9],
+			"faces": {
+				"north": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"east": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"south": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"west": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"up": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"down": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [6, 5, 5],
+			"to": [14, 6, 7],
+			"faces": {
+				"north": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"east": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"south": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"west": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"up": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"down": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [7, 5, 4],
+			"to": [13, 6, 5],
+			"faces": {
+				"north": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"east": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"south": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"west": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"up": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"down": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Hat_wizard*",
+			"from": [14, 5, 7],
+			"to": [15, 6, 9],
+			"faces": {
+				"north": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"east": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"south": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"west": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"up": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"down": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Hat_wizard",
+			"from": [7, 5, 11],
+			"to": [13, 6, 12],
+			"faces": {
+				"north": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"east": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"south": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"west": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"up": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"},
+				"down": {"uv": [7, 10.999, 4, 8.999], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Hat_wizard*",
+			"from": [13, 6, 7],
+			"to": [14, 8, 9],
+			"faces": {
+				"north": {"uv": [13.001, 8.001, 13.999, 9.999], "texture": "#texture"},
+				"east": {"uv": [7.001, 8.001, 8.999, 9.999], "texture": "#texture"},
+				"south": {"uv": [13.001, 8.001, 13.999, 9.999], "texture": "#texture"},
+				"west": {"uv": [7.001, 8.001, 8.999, 9.999], "texture": "#texture"},
+				"up": {"uv": [0.001, 0.001, 0.999, 0.999], "texture": "#texture"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-27, -116, 0],
+			"translation": [0.38, 1.13, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-27, 48, 0],
+			"translation": [0.38, 1.13, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, 1.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [11, -129, 0],
+			"translation": [0.76, 0, 0],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 14.55, 3.78],
+			"scale": [2, 2, 2]
+		}
+	}
+}
