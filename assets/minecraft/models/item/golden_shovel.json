@@ -55,6 +55,8 @@
         {"predicate": { "custom_model_data": 18044 }, "model": "item/custom/blocks/medieval_market_haybales"},
         {"predicate": { "custom_model_data": 18045 }, "model": "item/custom/blocks/medieval_market_well"},
         {"predicate": { "custom_model_data": 18046 }, "model": "item/custom/blocks/medieval_market_wood_pile"},
-        {"predicate": { "custom_model_data": 18047 }, "model": "item/custom/blocks/medieval_market_direction_sign"}
+        {"predicate": { "custom_model_data": 18047 }, "model": "item/custom/blocks/medieval_market_direction_sign"},
+
+        {"predicate": { "custom_model_data": 18048 }, "model": "item/custom/blocks/backpack_block"}
     ]
 }
