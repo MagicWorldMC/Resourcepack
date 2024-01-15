@@ -6,9 +6,9 @@
 		"3": "block/gold_block_top",
 		"4": "block/black_concrete",
 		"5": "custom/flow_blue",
-		"1_0": "item/apple",
-		"particle": "item/golden_apple",
-		"2_0": "item/golden_apple"
+		"1_0": "custom/apple",
+		"particle": "custom/golden_apple",
+		"2_0": "custom/golden_apple"
 	},
 	"elements": [
 		{
