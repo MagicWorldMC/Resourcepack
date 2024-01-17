@@ -25,6 +25,7 @@
         },
 
         {"type": "bitmap","file": "minecraft:custom/font/gold.png", "ascent": 5.25, "height": 12, "chars": ["\uE005"]},
-        {"type": "bitmap","file": "minecraft:custom/font/compass.png", "ascent": 5.25, "height": 12, "chars": ["\uE006"]}
+        {"type": "bitmap","file": "minecraft:custom/font/compass.png", "ascent": 5.25, "height": 12, "chars": ["\uE006"]},
+        {"type": "bitmap","file": "minecraft:custom/font/heart.png", "ascent": 5.25, "height": 12, "chars": ["\uE007"]}
     ]
 }

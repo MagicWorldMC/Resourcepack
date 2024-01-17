@@ -5,10 +5,9 @@
     },
     "overrides": [
         {"predicate": { "custom_model_data": 18001 }, "model": "item/custom/hats/eyes"},
-        {"predicate": { "custom_model_data": 18002 }, "model": "item/custom/hats/elf_ears"},
-        {"predicate": { "custom_model_data": 18003 }, "model": "item/custom/hats/hat_cloak"},
-        {"predicate": { "custom_model_data": 18004 }, "model": "item/custom/hats/hat_cloak_brown"},
-        {"predicate": { "custom_model_data": 18005 }, "model": "item/custom/hats/hat_cloak_white"},
+        {"predicate": { "custom_model_data": 18002 }, "model": "item/custom/hats/hat_cloak"},
+        {"predicate": { "custom_model_data": 18003 }, "model": "item/custom/hats/hat_cloak_brown"},
+        {"predicate": { "custom_model_data": 18004 }, "model": "item/custom/hats/hat_cloak_white"},
 
         {"predicate": { "custom_model_data": 20001 }, "model": "item/custom/glove"}
     ]
