@@ -1,0 +1,31 @@
+{
+    "providers": [
+        {
+            "__comment": "Negative 1 pixel space for UI",
+            "type": "bitmap",
+            "file": "minecraft:custom/icons/space.png",
+            "ascent": -32768,
+            "height": -3.9,
+            "chars": [
+                ""
+            ]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inventory/clipboard.png",
+            "height": 128,
+            "ascent": 12,
+            "chars": [
+                "\uA100\uA101", 
+                "\uA102\uA103"
+            ],
+            "shift": [10, 0]
+        },
+
+        {"type": "bitmap","file": "minecraft:custom/icons/house_gryphon.png", "ascent": -8.5, "height": 20, "chars": ["\uE001"]},
+        {"type": "bitmap","file": "minecraft:custom/icons/house_rattlesnake.png", "ascent": -8.5, "height": 20, "chars": ["\uE002"]},
+        {"type": "bitmap","file": "minecraft:custom/icons/house_badger.png", "ascent": -8.5, "height": 20, "chars": ["\uE003"]},
+        {"type": "bitmap","file": "minecraft:custom/icons/house_raventail.png", "ascent": -8.5, "height": 20, "chars": ["\uE004"]}
+    ]
+}

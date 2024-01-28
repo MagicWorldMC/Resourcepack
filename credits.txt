@@ -38,3 +38,5 @@ https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-
 - NoShadow shaders are from https://github.com/PuckiSilver/NoShadow
 
 - Pancake & berry pie are from https://www.planetminecraft.com/texture-pack/banquet-pack/
+
+- Some parts of our GUI are from https://www.planetminecraft.com/texture-pack/wild-west-gui/

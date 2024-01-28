@@ -1,6 +1,6 @@
 {
 	"credit": "Created by Droobledore with BDcraft Cubik PRO 0.93 Beta. Used with permission in NathanWolf's Magic plugin.",
-	"parent": "magic:base/lit",
+	"gui_light": "front",
 	"texture_size": [8, 8],
 	"textures": {
 		"1": "custom/hat_wizard_colorable",
