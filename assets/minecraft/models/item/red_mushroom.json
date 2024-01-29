@@ -2,6 +2,6 @@
     "__comment": "JimStoneCraft - 2020",
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:item/warped_roots"
+        "layer0": "minecraft:item/red_mushroom"
     }
 }
