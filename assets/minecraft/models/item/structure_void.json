@@ -21,6 +21,9 @@
         {"predicate": {"custom_model_data": 19002}, "model": "item/custom/icon/next"},
         {"predicate": {"custom_model_data": 19003}, "model": "item/custom/icon/plus"},
         {"predicate": {"custom_model_data": 19004}, "model": "item/custom/fire"},
-        {"predicate": {"custom_model_data": 19005}, "model": "item/custom/fire_locked"}
+        {"predicate": {"custom_model_data": 19005}, "model": "item/custom/fire_locked"},
+        {"predicate": {"custom_model_data": 19006}, "model": "item/custom/icon/lock"},
+        {"predicate": {"custom_model_data": 19007}, "model": "item/custom/icon/mail"},
+        {"predicate": {"custom_model_data": 19008}, "model": "item/custom/icon/seal"}
     ]
 }

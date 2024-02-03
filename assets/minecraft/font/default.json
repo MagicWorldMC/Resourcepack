@@ -2757,6 +2757,50 @@
             ],
             "oversample": 10
         },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inventory/shop/shop_supplies.png",
+            "height": 128,
+            "ascent": 63,
+            "chars": [
+                "\u1300\u1301"
+            ],
+            "shift": [10, 0]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inventory/shop/shop_poppins_potions.png",
+            "height": 128,
+            "ascent": 63,
+            "chars": [
+                "\u1302\u1303"
+            ],
+            "shift": [10, 0]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inventory/shop/shop_brooms.png",
+            "height": 128,
+            "ascent": 63,
+            "chars": [
+                "\u1304\u1305"
+            ],
+            "shift": [10, 0]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inventory/shop/shop_house.png",
+            "height": 128,
+            "ascent": 63,
+            "chars": [
+                "\u1306\u1307"
+            ],
+            "shift": [10, 0]
+        },
         
         {"type": "bitmap","file": "minecraft:custom/logo.png","ascent": 32, "height": 80,"chars": ["⿌⿍"]},
         {"type": "bitmap","file": "minecraft:custom/logo.png","ascent": 18.75, "height": 35,"chars": ["җҘ"]},
