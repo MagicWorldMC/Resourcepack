@@ -2838,6 +2838,8 @@
         {"type": "bitmap","file": "minecraft:custom/badge/badge_badger_head_of_house.png", "ascent": 8, "height": 8.5, "chars": ["\uB014"]},
         {"type": "bitmap","file": "minecraft:custom/badge/badge_professor.png", "ascent": 8, "height": 8.5, "chars": ["\uB015"]},
         {"type": "bitmap","file": "minecraft:custom/badge/badge_architect.png", "ascent": 8, "height": 8.5, "chars": ["\uB016"]},
-        {"type": "bitmap","file": "minecraft:custom/badge/badge_vip.png", "ascent": 8, "height": 8.5, "chars": ["\uB017"]}
+        {"type": "bitmap","file": "minecraft:custom/badge/badge_vip.png", "ascent": 8, "height": 8.5, "chars": ["\uB017"]},
+        {"type": "bitmap","file": "minecraft:custom/badge/badge_engineer.png", "ascent": 8, "height": 8.5, "chars": ["\uB018"]},
+        {"type": "bitmap","file": "minecraft:custom/badge/badge_sr_engineer.png", "ascent": 8, "height": 8.5, "chars": ["\uB019"]}
     ]
 }
