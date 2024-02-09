@@ -57,6 +57,10 @@
         {"predicate": { "custom_model_data": 18046 }, "model": "item/custom/blocks/medieval_market_wood_pile"},
         {"predicate": { "custom_model_data": 18047 }, "model": "item/custom/blocks/medieval_market_direction_sign"},
 
-        {"predicate": { "custom_model_data": 18048 }, "model": "item/custom/blocks/backpack_block"}
+        {"predicate": { "custom_model_data": 18048 }, "model": "item/custom/blocks/backpack_block"},
+        {"predicate": { "custom_model_data": 18049 }, "model": "item/custom/blocks/broomstick_angled"},
+        {"predicate": { "custom_model_data": 18050 }, "model": "item/custom/blocks/broomstick_part_1"},
+        {"predicate": { "custom_model_data": 18051 }, "model": "item/custom/blocks/broomstick_part_2"},
+        {"predicate": { "custom_model_data": 18052 }, "model": "item/custom/blocks/broomstick_part_3"}
     ]
 }

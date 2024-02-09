@@ -1,37 +1,612 @@
 {
-    "parent": "minecraft:item/custom/broomstick2",
+	"credit": "Created by Droobledore with BDcraft Cubik PRO 0.93 Beta, used with permission in NathanWolf's Magic plugin",
+	"ambientocclusion": false,
+	"textures": {
+		"texture": "custom/broom2"
+	},
+	"elements": [
+		{
+			"name": "Firebolt",
+			"from": [-11.2, 8, 7.4],
+			"to": [2, 8.6, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [5.499, 8.501, 0.001, 8.749], "texture": "#texture"},
+				"east": {"uv": [6.501, 8.501, 6.999, 8.749], "texture": "#texture"},
+				"south": {"uv": [0.001, 8.501, 5.499, 8.749], "texture": "#texture"},
+				"west": {"uv": [4.501, 8.001, 4.999, 8.249], "texture": "#texture", "cullface": "west"},
+				"up": {"uv": [0.001, 7.751, 5.499, 8.249], "texture": "#texture"},
+				"down": {"uv": [0.001, 7.751, 5.499, 8.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-10.6, 8.6, 7.4],
+			"to": [3.2, 9.8, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [5.999, 8.001, 0.251, 8.499], "texture": "#texture"},
+				"east": {"uv": [6.501, 8.001, 6.999, 8.499], "texture": "#texture"},
+				"south": {"uv": [0.251, 8.001, 5.999, 8.499], "texture": "#texture"},
+				"west": {"uv": [3.001, 8.001, 3.499, 8.499], "texture": "#texture"},
+				"up": {"uv": [0.251, 7.751, 5.999, 8.249], "texture": "#texture"},
+				"down": {"uv": [0.251, 7.751, 5.999, 8.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-10, 9.8, 7.4],
+			"to": [12.2, 10.4, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [9.749, 7.751, 0.501, 7.999], "texture": "#texture"},
+				"east": {"uv": [7.751, 7.751, 8.249, 7.999], "texture": "#texture"},
+				"south": {"uv": [0.501, 7.751, 9.749, 7.999], "texture": "#texture"},
+				"west": {"uv": [4.001, 8.001, 4.499, 8.249], "texture": "#texture"},
+				"up": {"uv": [0.501, 7.751, 9.749, 8.249], "texture": "#texture"},
+				"down": {"uv": [0.501, 7.751, 9.749, 8.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-9.4, 8.6, 6.8],
+			"to": [2.6, 9.8, 7.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [5.749, 8.001, 0.751, 8.499], "texture": "#texture"},
+				"east": {"uv": [7.001, 8.001, 7.249, 8.499], "texture": "#texture"},
+				"west": {"uv": [3.501, 8.001, 3.749, 8.499], "texture": "#texture"},
+				"up": {"uv": [0.751, 7.501, 5.749, 7.749], "texture": "#texture"},
+				"down": {"uv": [0.751, 7.501, 5.749, 7.749], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-9.4, 8.6, 8.6],
+			"to": [2.6, 9.8, 9.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"east": {"uv": [3.501, 4.001, 3.749, 4.499], "texture": "#texture"},
+				"south": {"uv": [0.751, 8.001, 5.749, 8.499], "texture": "#texture"},
+				"west": {"uv": [2.501, 7.501, 2.749, 7.999], "texture": "#texture"},
+				"up": {"uv": [0.751, 8.251, 5.749, 8.499], "texture": "#texture"},
+				"down": {"uv": [0.751, 8.251, 5.749, 8.499], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-8.8, 9.8, 6.8],
+			"to": [4.4, 10.4, 7.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [6.499, 7.751, 1.001, 7.999], "texture": "#texture"},
+				"east": {"uv": [6.999, 7.501, 6.751, 7.749], "texture": "#texture"},
+				"west": {"uv": [4.501, 8.001, 4.749, 8.249], "texture": "#texture"},
+				"up": {"uv": [1.001, 7.501, 6.499, 7.749], "texture": "#texture"},
+				"down": {"uv": [14.999, 7.749, 9.501, 7.501], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-8.8, 10.4, 7.4],
+			"to": [8, 11, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [7.999, 7.501, 1.001, 7.749], "texture": "#texture"},
+				"east": {"uv": [8.249, 7.501, 7.751, 7.749], "texture": "#texture"},
+				"south": {"uv": [1.001, 7.501, 7.999, 7.749], "texture": "#texture"},
+				"west": {"uv": [3.501, 8.501, 3.999, 8.749], "texture": "#texture"},
+				"up": {"uv": [1.001, 7.751, 7.999, 8.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-8.8, 9.8, 8.6],
+			"to": [4.4, 10.4, 9.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"east": {"uv": [6.999, 7.501, 6.751, 7.749], "texture": "#texture"},
+				"south": {"uv": [1.001, 7.751, 6.499, 7.999], "texture": "#texture"},
+				"west": {"uv": [3.001, 7.001, 3.249, 7.249], "texture": "#texture"},
+				"up": {"uv": [1.001, 8.251, 6.499, 8.499], "texture": "#texture"},
+				"down": {"uv": [14.999, 8.499, 9.501, 8.251], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-8.2, 10.4, 6.8],
+			"to": [3.2, 11, 7.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [5.999, 7.501, 1.251, 7.749], "texture": "#texture"},
+				"east": {"uv": [3.999, 6.001, 3.751, 6.249], "texture": "#texture"},
+				"west": {"uv": [2.501, 7.001, 2.749, 7.249], "texture": "#texture"},
+				"up": {"uv": [1.251, 7.501, 5.999, 7.749], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-7.6, 10.4, 8.6],
+			"to": [3.8, 11, 9.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"east": {"uv": [3.999, 5.501, 3.751, 5.749], "texture": "#texture"},
+				"south": {"uv": [1.251, 7.501, 5.999, 7.749], "texture": "#texture"},
+				"west": {"uv": [3.001, 7.001, 3.249, 7.249], "texture": "#texture"},
+				"up": {"uv": [1.251, 8.251, 5.999, 8.499], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-6.4, 11, 7.4],
+			"to": [2.6, 11.6, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [5.749, 7.251, 2.001, 7.499], "texture": "#texture"},
+				"east": {"uv": [4.499, 6.001, 4.001, 6.249], "texture": "#texture"},
+				"south": {"uv": [2.001, 7.251, 5.749, 7.499], "texture": "#texture"},
+				"west": {"uv": [3.501, 8.001, 3.999, 8.249], "texture": "#texture"},
+				"up": {"uv": [2.001, 7.751, 5.749, 8.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-5.8, 8.6, 6.2],
+			"to": [2, 11, 6.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [5.499, 7.501, 2.251, 8.499], "texture": "#texture"},
+				"east": {"uv": [7.251, 7.501, 7.499, 8.499], "texture": "#texture"},
+				"south": {"uv": [2.251, 7.501, 5.499, 8.499], "texture": "#texture"},
+				"west": {"uv": [7.251, 7.501, 7.499, 8.499], "texture": "#texture"},
+				"up": {"uv": [2.251, 7.251, 5.499, 7.499], "texture": "#texture"},
+				"down": {"uv": [2.251, 7.251, 5.499, 7.499], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-5.8, 8.6, 9.2],
+			"to": [2, 11, 9.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [2.251, 7.501, 5.499, 8.499], "texture": "#texture"},
+				"east": {"uv": [6.001, 7.501, 6.249, 8.499], "texture": "#texture"},
+				"south": {"uv": [2.251, 7.501, 5.499, 8.499], "texture": "#texture"},
+				"west": {"uv": [2.501, 8.001, 2.749, 8.999], "texture": "#texture"},
+				"up": {"uv": [2.251, 8.501, 5.499, 8.749], "texture": "#texture"},
+				"down": {"uv": [2.251, 8.501, 5.499, 8.749], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-5.2, 11, 6.8],
+			"to": [2, 11.6, 7.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [5.499, 7.251, 2.501, 7.499], "texture": "#texture"},
+				"east": {"uv": [6.999, 7.001, 6.751, 7.249], "texture": "#texture"},
+				"west": {"uv": [3.001, 8.001, 3.249, 8.249], "texture": "#texture"},
+				"up": {"uv": [2.501, 7.501, 5.499, 7.749], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-5.2, 11, 8.6],
+			"to": [2, 11.6, 9.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"east": {"uv": [6.499, 7.001, 6.251, 7.249], "texture": "#texture"},
+				"south": {"uv": [2.501, 7.251, 5.499, 7.499], "texture": "#texture"},
+				"west": {"uv": [3.001, 8.001, 3.249, 8.249], "texture": "#texture"},
+				"up": {"uv": [2.501, 8.251, 5.499, 8.499], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-4.6, 8, 6.8],
+			"to": [0.8, 8.6, 7.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [2.751, 8.501, 4.999, 8.749], "texture": "#texture"},
+				"east": {"uv": [7.001, 8.501, 7.249, 8.749], "texture": "#texture"},
+				"west": {"uv": [3.001, 10.001, 3.249, 10.249], "texture": "#texture"},
+				"down": {"uv": [2.751, 7.501, 4.999, 7.749], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-4.6, 8, 8.6],
+			"to": [0.8, 8.6, 9.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"east": {"uv": [3.001, 8.001, 3.249, 8.249], "texture": "#texture"},
+				"south": {"uv": [2.751, 8.501, 4.999, 8.749], "texture": "#texture"},
+				"west": {"uv": [4.001, 8.501, 4.249, 8.749], "texture": "#texture"},
+				"down": {"uv": [2.751, 8.251, 4.999, 8.499], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-4, 11, 6.2],
+			"to": [0.8, 11.6, 6.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [4.999, 7.251, 3.001, 7.499], "texture": "#texture"},
+				"east": {"uv": [7.499, 7.251, 7.251, 7.499], "texture": "#texture"},
+				"west": {"uv": [7.251, 7.251, 7.499, 7.499], "texture": "#texture"},
+				"up": {"uv": [3.001, 7.251, 4.999, 7.499], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-4, 11.6, 7.4],
+			"to": [0.8, 12.2, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [4.999, 7.001, 3.001, 7.249], "texture": "#texture"},
+				"east": {"uv": [7.499, 7.001, 7.001, 7.249], "texture": "#texture"},
+				"south": {"uv": [3.001, 7.001, 4.999, 7.249], "texture": "#texture"},
+				"west": {"uv": [2.501, 7.501, 2.999, 7.749], "texture": "#texture"},
+				"up": {"uv": [3.001, 7.751, 4.999, 8.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-4, 11, 9.2],
+			"to": [0.8, 11.6, 9.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"east": {"uv": [3.999, 7.001, 3.751, 7.249], "texture": "#texture"},
+				"south": {"uv": [3.001, 7.251, 4.999, 7.499], "texture": "#texture"},
+				"west": {"uv": [2.501, 8.001, 2.749, 8.249], "texture": "#texture"},
+				"up": {"uv": [3.001, 8.501, 4.999, 8.749], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-3.4, 7.4, 7.4],
+			"to": [0.2, 8, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [3.251, 8.751, 4.749, 8.999], "texture": "#texture"},
+				"east": {"uv": [7.001, 8.501, 7.499, 8.749], "texture": "#texture"},
+				"south": {"uv": [3.251, 8.751, 4.749, 8.999], "texture": "#texture"},
+				"west": {"uv": [2.501, 9.001, 2.999, 9.249], "texture": "#texture"},
+				"down": {"uv": [3.251, 7.751, 4.749, 8.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-2.8, 8.6, 5.6],
+			"to": [-0.4, 11, 6.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [4.499, 7.501, 3.501, 8.499], "texture": "#texture"},
+				"east": {"uv": [7.249, 7.501, 7.001, 8.499], "texture": "#texture"},
+				"west": {"uv": [7.001, 7.501, 7.249, 8.499], "texture": "#texture"},
+				"up": {"uv": [3.501, 7.001, 4.499, 7.249], "texture": "#texture"},
+				"down": {"uv": [3.999, 6.999, 3.001, 6.751], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-2.8, 8, 6.2],
+			"to": [0.2, 8.6, 6.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [3.501, 8.501, 4.749, 8.749], "texture": "#texture"},
+				"east": {"uv": [7.251, 8.501, 7.499, 8.749], "texture": "#texture"},
+				"west": {"uv": [7.251, 8.501, 7.499, 8.749], "texture": "#texture"},
+				"down": {"uv": [3.501, 7.251, 4.749, 7.499], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-2.8, 8, 9.2],
+			"to": [0.2, 8.6, 9.8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"east": {"uv": [4.001, 8.501, 4.249, 8.749], "texture": "#texture"},
+				"south": {"uv": [3.501, 8.501, 4.749, 8.749], "texture": "#texture"},
+				"west": {"uv": [3.501, 8.501, 3.749, 8.749], "texture": "#texture"},
+				"down": {"uv": [3.501, 8.501, 4.749, 8.749], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-2.8, 8.6, 9.8],
+			"to": [-0.4, 11, 10.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"east": {"uv": [7.499, 7.501, 7.251, 8.499], "texture": "#texture"},
+				"south": {"uv": [3.501, 7.501, 4.499, 8.499], "texture": "#texture"},
+				"west": {"uv": [3.001, 7.501, 3.249, 8.499], "texture": "#texture"},
+				"up": {"uv": [3.501, 8.751, 4.499, 8.999], "texture": "#texture"},
+				"down": {"uv": [4.499, 8.999, 3.501, 8.751], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-2.2, 7.4, 6.8],
+			"to": [-1, 8, 7.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [3.751, 8.751, 4.249, 8.999], "texture": "#texture"},
+				"east": {"uv": [7.001, 8.501, 7.249, 8.749], "texture": "#texture"},
+				"west": {"uv": [4.001, 8.501, 4.249, 8.749], "texture": "#texture"},
+				"down": {"uv": [3.751, 7.501, 4.249, 7.749], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-2.2, 11.6, 6.8],
+			"to": [-0.4, 12.2, 7.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [4.499, 7.001, 3.751, 7.249], "texture": "#texture"},
+				"east": {"uv": [7.499, 7.001, 7.251, 7.249], "texture": "#texture"},
+				"west": {"uv": [4.001, 7.001, 4.249, 7.249], "texture": "#texture"},
+				"up": {"uv": [3.751, 7.501, 4.499, 7.749], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-2.2, 7.4, 8.6],
+			"to": [-1, 8, 9.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"east": {"uv": [4.501, 8.501, 4.749, 8.749], "texture": "#texture"},
+				"south": {"uv": [3.751, 8.751, 4.249, 8.999], "texture": "#texture"},
+				"west": {"uv": [4.501, 9.001, 4.749, 9.249], "texture": "#texture"},
+				"down": {"uv": [3.751, 8.251, 4.249, 8.499], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-2.2, 11.6, 8.6],
+			"to": [-0.4, 12.2, 9.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"east": {"uv": [7.499, 7.001, 7.251, 7.249], "texture": "#texture"},
+				"south": {"uv": [3.751, 7.001, 4.499, 7.249], "texture": "#texture"},
+				"west": {"uv": [3.001, 7.001, 3.249, 7.249], "texture": "#texture"},
+				"up": {"uv": [3.751, 8.251, 4.499, 8.499], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-1.6, 8, 5.6],
+			"to": [-1, 8.6, 6.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [4.001, 8.501, 4.249, 8.749], "texture": "#texture"},
+				"east": {"uv": [7.001, 8.501, 7.249, 8.749], "texture": "#texture"},
+				"west": {"uv": [7.001, 8.501, 7.249, 8.749], "texture": "#texture"},
+				"down": {"uv": [4.001, 7.001, 4.249, 7.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-1.6, 11, 5.6],
+			"to": [-1, 11.6, 6.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [4.249, 7.251, 4.001, 7.499], "texture": "#texture"},
+				"east": {"uv": [7.249, 7.251, 7.001, 7.499], "texture": "#texture"},
+				"west": {"uv": [7.001, 7.251, 7.249, 7.499], "texture": "#texture"},
+				"up": {"uv": [4.001, 7.001, 4.249, 7.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-1.6, 8, 9.8],
+			"to": [-1, 8.6, 10.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"east": {"uv": [7.001, 8.501, 7.249, 8.749], "texture": "#texture"},
+				"south": {"uv": [4.001, 8.501, 4.249, 8.749], "texture": "#texture"},
+				"west": {"uv": [4.001, 8.501, 4.249, 8.749], "texture": "#texture"},
+				"down": {"uv": [4.001, 8.751, 4.249, 8.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [-1.6, 11, 9.8],
+			"to": [-1, 11.6, 10.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"east": {"uv": [3.999, 7.001, 3.751, 7.249], "texture": "#texture"},
+				"south": {"uv": [4.001, 7.251, 4.249, 7.499], "texture": "#texture"},
+				"west": {"uv": [2.501, 7.501, 2.749, 7.749], "texture": "#texture"},
+				"up": {"uv": [4.001, 8.751, 4.249, 8.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [2.6, 9.2, 6.8],
+			"to": [4.4, 9.8, 7.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [6.499, 8.001, 5.751, 8.249], "texture": "#texture"},
+				"east": {"uv": [6.501, 8.001, 6.749, 8.249], "texture": "#texture"},
+				"south": {"uv": [5.751, 8.001, 6.499, 8.249], "texture": "#texture"},
+				"down": {"uv": [5.751, 7.501, 6.499, 7.749], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [2.6, 9.2, 8.6],
+			"to": [4.4, 9.8, 9.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [5.751, 8.001, 6.499, 8.249], "texture": "#texture"},
+				"east": {"uv": [6.501, 8.001, 6.749, 8.249], "texture": "#texture"},
+				"south": {"uv": [5.751, 8.001, 6.499, 8.249], "texture": "#texture"},
+				"down": {"uv": [5.751, 8.251, 6.499, 8.499], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [3.2, 9.2, 7.4],
+			"to": [11, 9.8, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [9.249, 8.001, 6.001, 8.249], "texture": "#texture"},
+				"east": {"uv": [7.751, 8.001, 8.249, 8.249], "texture": "#texture"},
+				"south": {"uv": [6.001, 8.001, 9.249, 8.249], "texture": "#texture"},
+				"down": {"uv": [6.001, 7.751, 9.249, 8.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [5, 9.2, 6.8],
+			"to": [6.8, 10.4, 7.4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [7.499, 7.751, 6.751, 8.249], "texture": "#texture"},
+				"east": {"uv": [7.001, 7.501, 7.249, 7.999], "texture": "#texture"},
+				"south": {"uv": [6.751, 7.751, 7.499, 8.249], "texture": "#texture"},
+				"west": {"uv": [6.501, 7.501, 6.749, 7.999], "texture": "#texture"},
+				"up": {"uv": [6.751, 7.501, 7.499, 7.749], "texture": "#texture"},
+				"down": {"uv": [6.751, 7.501, 7.499, 7.749], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [5, 8.6, 7.4],
+			"to": [6.8, 9.2, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [7.499, 8.251, 6.751, 8.499], "texture": "#texture"},
+				"east": {"uv": [7.001, 8.001, 7.499, 8.249], "texture": "#texture"},
+				"south": {"uv": [6.751, 8.251, 7.499, 8.499], "texture": "#texture"},
+				"west": {"uv": [6.501, 8.001, 6.999, 8.249], "texture": "#texture"},
+				"down": {"uv": [6.751, 7.751, 7.499, 8.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [5, 9.2, 8.6],
+			"to": [6.8, 10.4, 9.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [6.751, 7.751, 7.499, 8.249], "texture": "#texture"},
+				"east": {"uv": [7.001, 7.501, 7.249, 7.999], "texture": "#texture"},
+				"south": {"uv": [6.751, 7.751, 7.499, 8.249], "texture": "#texture"},
+				"west": {"uv": [6.501, 7.501, 6.749, 7.999], "texture": "#texture"},
+				"up": {"uv": [6.751, 8.251, 7.499, 8.499], "texture": "#texture"},
+				"down": {"uv": [6.751, 8.251, 7.499, 8.499], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [10.4, 10.4, 7.4],
+			"to": [18.8, 11, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [12.499, 7.501, 9.001, 7.749], "texture": "#texture"},
+				"east": {"uv": [12.501, 7.501, 12.999, 7.749], "texture": "#texture"},
+				"south": {"uv": [9.001, 7.501, 12.499, 7.749], "texture": "#texture"},
+				"west": {"uv": [7.751, 7.501, 8.249, 7.749], "texture": "#texture"},
+				"up": {"uv": [9.001, 7.751, 12.499, 8.249], "texture": "#texture"},
+				"down": {"uv": [9.001, 8.501, 14.499, 8.999], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [12.2, 11, 7.4],
+			"to": [27.2, 11.6, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [9.751, 7.251, 15.999, 7.499], "texture": "#texture"},
+				"east": {"uv": [11.501, 7.001, 11.999, 7.249], "texture": "#texture", "cullface": "east"},
+				"south": {"uv": [9.751, 7.251, 15.999, 7.499], "texture": "#texture"},
+				"west": {"uv": [10.001, 7.001, 10.499, 7.249], "texture": "#texture"},
+				"up": {"uv": [11.501, 7.501, 15.999, 7.999], "texture": "#texture"},
+				"down": {"uv": [9.751, 7.751, 15.999, 8.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [21.8, 10.4, 7.4],
+			"to": [23, 11, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [13.751, 7.501, 14.249, 7.749], "texture": "#texture"},
+				"east": {"uv": [12.001, 7.001, 12.499, 7.249], "texture": "#texture"},
+				"south": {"uv": [13.751, 7.501, 14.249, 7.749], "texture": "#texture"},
+				"west": {"uv": [12.001, 7.501, 12.499, 7.749], "texture": "#texture"},
+				"down": {"uv": [13.751, 7.751, 14.249, 8.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [24.8, 10.4, 7.4],
+			"to": [26.6, 11, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [15.001, 7.501, 15.749, 7.749], "texture": "#texture"},
+				"east": {"uv": [12.001, 7.001, 12.499, 7.249], "texture": "#texture"},
+				"south": {"uv": [15.001, 7.501, 15.749, 7.749], "texture": "#texture"},
+				"west": {"uv": [13.001, 7.501, 13.499, 7.749], "texture": "#texture"},
+				"down": {"uv": [15.001, 7.751, 15.749, 8.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [25.4, 11.6, 8],
+			"to": [26.6, 12.2, 8.6],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [15.251, 7.001, 15.749, 7.249], "texture": "#texture"},
+				"east": {"uv": [11.501, 7.001, 11.749, 7.249], "texture": "#texture"},
+				"south": {"uv": [15.251, 7.001, 15.749, 7.249], "texture": "#texture"},
+				"west": {"uv": [10.501, 7.001, 10.749, 7.249], "texture": "#texture"},
+				"up": {"uv": [15.251, 8.001, 15.749, 8.249], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Firebolt",
+			"from": [26, 11.6, 7.4],
+			"to": [26.6, 12.2, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-11.2, 0, -11.2]},
+			"faces": {
+				"north": {"uv": [15.749, 7.001, 15.501, 7.249], "texture": "#texture"},
+				"east": {"uv": [11.499, 7.001, 11.251, 7.249], "texture": "#texture"},
+				"west": {"uv": [10.501, 7.001, 10.749, 7.249], "texture": "#texture"},
+				"up": {"uv": [15.501, 7.751, 15.749, 7.999], "texture": "#texture"}
+			}
+		}
+	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [90, 90, 0],
-			"translation": [0, -6.43, 1],
-			"scale": [2.5, 2.5, 2.5]
+			"translation": [0, -6.43, 1]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [90, -90, 0],
-			"translation": [0, -6.43, 1],
-			"scale": [2.5, 2.5, 2.5]
+			"translation": [0, -6.43, 1]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 90, 75],
-			"translation": [0, 2, 2],
-			"scale": [1.7, 1.7, 1.7]
+			"translation": [0, 2, 2]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, -90, -75],
-			"translation": [0, 2, 2],
-			"scale": [1.7, 1.7, 1.7]
+			"translation": [0, 2, 2]
 		},
 		"ground": {
-			"translation": [0, -4, 0],
-			"scale": [2, 2, 2]
+			"translation": [0, 6.25, 0]
 		},
 		"gui": {
 			"rotation": [26, 16, 41],
-			"scale": [1.2, 1.2, 1.2]
+			"translation": [0.25, -0.25, 0],
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"head": {
-			"translation": [0, 12, 0],
-			"scale": [4, 4, 4]
+			"rotation": [0, 90, 0],
+			"translation": [0, 3.5, 0]
 		},
 		"fixed": {
 			"translation": [0, 0, -0.5],
