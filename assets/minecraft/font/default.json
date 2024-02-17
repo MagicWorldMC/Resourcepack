@@ -2840,6 +2840,10 @@
         {"type": "bitmap","file": "minecraft:custom/badge/badge_architect.png", "ascent": 8, "height": 8.5, "chars": ["\uB016"]},
         {"type": "bitmap","file": "minecraft:custom/badge/badge_vip.png", "ascent": 8, "height": 8.5, "chars": ["\uB017"]},
         {"type": "bitmap","file": "minecraft:custom/badge/badge_engineer.png", "ascent": 8, "height": 8.5, "chars": ["\uB018"]},
-        {"type": "bitmap","file": "minecraft:custom/badge/badge_sr_engineer.png", "ascent": 8, "height": 8.5, "chars": ["\uB019"]}
+        {"type": "bitmap","file": "minecraft:custom/badge/badge_sr_engineer.png", "ascent": 8, "height": 8.5, "chars": ["\uB019"]},
+        {"type": "bitmap","file": "minecraft:custom/badge/badge_npc.png", "ascent": 8, "height": 8.5, "chars": ["\uB020"]},
+        {"type": "bitmap","file": "minecraft:custom/badge/badge_shop.png", "ascent": 8, "height": 8.5, "chars": ["\uB021"]},
+        {"type": "bitmap","file": "minecraft:custom/badge/badge_quest.png", "ascent": 8, "height": 8.5, "chars": ["\uB022"]},
+        {"type": "bitmap","file": "minecraft:custom/badge/badge_house_shop.png", "ascent": 8, "height": 8.5, "chars": ["\uB023"]}
     ]
 }
