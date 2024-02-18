@@ -2801,6 +2801,17 @@
             ],
             "shift": [10, 0]
         },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inventory/shop/shop_owl_post.png",
+            "height": 128,
+            "ascent": 63,
+            "chars": [
+                "\u1308\u1309"
+            ],
+            "shift": [10, 0]
+        },
         
         {"type": "bitmap","file": "minecraft:custom/logo.png","ascent": 32, "height": 80,"chars": ["⿌⿍"]},
         {"type": "bitmap","file": "minecraft:custom/logo.png","ascent": 18.75, "height": 35,"chars": ["җҘ"]},
