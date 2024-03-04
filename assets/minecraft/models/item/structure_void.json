@@ -24,6 +24,7 @@
         {"predicate": {"custom_model_data": 19005}, "model": "item/custom/fire_locked"},
         {"predicate": {"custom_model_data": 19006}, "model": "item/custom/icon/lock"},
         {"predicate": {"custom_model_data": 19007}, "model": "item/custom/icon/mail"},
-        {"predicate": {"custom_model_data": 19008}, "model": "item/custom/icon/seal"}
+        {"predicate": {"custom_model_data": 19008}, "model": "item/custom/icon/seal"},
+        {"predicate": {"custom_model_data": 19009}, "model": "item/custom/pouch"}
     ]
 }
