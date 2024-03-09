@@ -5,6 +5,7 @@
     },
     "overrides": [
         {"predicate": { "custom_model_data": 1000 }, "model": "item/custom/backpack"},
+        {"predicate": { "custom_model_data": 1001 }, "model": "item/custom/pouch_model"},
 
         {"predicate": { "custom_model_data": 18001 }, "model": "item/custom/broomstick4"},
         {"predicate": { "custom_model_data": 18002 }, "model": "item/custom/broomstick2"},
