@@ -47,6 +47,54 @@
             "shift": [10, 0]
         },
 
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inventory/brewing/brewing_cold.png",
+            "height": 128,
+            "ascent": 12,
+            "chars": [
+                "\uA112\uA113", 
+                "\uA114\uA115"
+            ],
+            "shift": [10, 0]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inventory/brewing/brewing_warm.png",
+            "height": 128,
+            "ascent": 12,
+            "chars": [
+                "\uA116\uA117",
+                "\uA118\uA119"
+            ],
+            "shift": [10, 0]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inventory/brewing/brewing_hot.png",
+            "height": 128,
+            "ascent": 12,
+            "chars": [
+                "\uA120\uA121",
+                "\uA122\uA123"
+            ],
+            "shift": [10, 0]
+        },
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/inventory/brewing/brewing_colored_cauldron.png",
+            "height": 128,
+            "ascent": 12,
+            "chars": [
+                "\uA124"
+            ],
+            "shift": [10, 0]
+        },
+        
         {"type": "bitmap","file": "minecraft:custom/icons/house_gryphon.png", "ascent": -8.5, "height": 20, "chars": ["\uE001"]},
         {"type": "bitmap","file": "minecraft:custom/icons/house_rattlesnake.png", "ascent": -8.5, "height": 20, "chars": ["\uE002"]},
         {"type": "bitmap","file": "minecraft:custom/icons/house_badger.png", "ascent": -8.5, "height": 20, "chars": ["\uE003"]},

@@ -25,6 +25,10 @@
         {"predicate": {"custom_model_data": 19006}, "model": "item/custom/icon/lock"},
         {"predicate": {"custom_model_data": 19007}, "model": "item/custom/icon/mail"},
         {"predicate": {"custom_model_data": 19008}, "model": "item/custom/icon/seal"},
-        {"predicate": {"custom_model_data": 19009}, "model": "item/custom/pouch"}
+        {"predicate": {"custom_model_data": 19009}, "model": "item/custom/icon/pouch"},
+        {"predicate": {"custom_model_data": 19010}, "model": "item/custom/icon/spoon"},
+        {"predicate": {"custom_model_data": 19011}, "model": "item/custom/icon/snowflake"},
+        {"predicate": {"custom_model_data": 19012}, "model": "item/custom/icon/small_flame"},
+        {"predicate": {"custom_model_data": 19013}, "model": "item/custom/icon/big_flame"}
     ]
 }
