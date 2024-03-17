@@ -13,7 +13,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom/inventory/clipboard.png",
+            "file": "minecraft:custom2/inventory/clipboard.png",
             "height": 128,
             "ascent": 12,
             "chars": [
@@ -25,7 +25,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom/inventory/discovery.png",
+            "file": "minecraft:custom2/inventory/discovery.png",
             "height": 128,
             "ascent": 12,
             "chars": [
@@ -37,7 +37,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom/inventory/profile.png",
+            "file": "minecraft:custom2/inventory/profile.png",
             "height": 128,
             "ascent": 12,
             "chars": [
@@ -50,7 +50,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom/inventory/brewing/brewing_cold.png",
+            "file": "minecraft:custom2/inventory/brewing/brewing_cold.png",
             "height": 128,
             "ascent": 12,
             "chars": [
@@ -62,7 +62,7 @@
         
         {
             "type": "bitmap",
-            "file": "minecraft:custom/inventory/brewing/brewing_warm.png",
+            "file": "minecraft:custom2/inventory/brewing/brewing_warm.png",
             "height": 128,
             "ascent": 12,
             "chars": [
@@ -74,7 +74,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom/inventory/brewing/brewing_hot.png",
+            "file": "minecraft:custom2/inventory/brewing/brewing_hot.png",
             "height": 128,
             "ascent": 12,
             "chars": [
@@ -86,7 +86,7 @@
         
         {
             "type": "bitmap",
-            "file": "minecraft:custom/inventory/brewing/brewing_colored_cauldron.png",
+            "file": "minecraft:custom2/inventory/brewing/brewing_colored_cauldron.png",
             "height": 128,
             "ascent": 12,
             "chars": [

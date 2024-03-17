@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "gui/recipe_book",
-		"particle": "gui/recipe_book",
-		"texture": "gui/container/dispenser"
+		"1": "custom/recipe_book",
+		"particle": "custom/recipe_book",
+		"texture": "custom/dispenser"
 	},
 	"elements": [
 		{

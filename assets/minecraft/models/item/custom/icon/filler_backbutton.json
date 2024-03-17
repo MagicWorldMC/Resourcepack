@@ -4,7 +4,7 @@
 	"textures": {
 		"1": "item/structure_void",
 		"particle": "item/structure_void",
-		"texture": "gui/container/dispenser"
+		"texture": "custom/dispenser"
 	},
 	"elements": [
 		{

@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"texture": "gui/container/dispenser"
+		"texture": "custom/dispenser"
 	},
 	"elements": [
 		{

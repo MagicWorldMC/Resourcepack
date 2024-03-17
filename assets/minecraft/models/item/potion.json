@@ -1,7 +1,7 @@
 {
 	"credit": "Made by Mariood, the shark person",
 	"parent": "block/block",
-	"texture_size": [24, 16],
+	"texture_size": [32, 32],
 	"textures": {
 		"1": "item/potion_overlay2",
 		"2": "block/oak_fence_inventory_top",
@@ -49,12 +49,12 @@
 			"from": [4.25, 3.25, 4.25],
 			"to": [11.75, 8.25, 11.75],
 			"faces": {
-				"north": {"uv": [4, 0, 8, 3], "texture": "#1", "tintindex": 0},
-				"east": {"uv": [4, 0, 8, 3], "texture": "#1", "tintindex": 0},
-				"south": {"uv": [4, 0, 8, 3], "texture": "#1", "tintindex": 0},
-				"west": {"uv": [4, 0, 8, 3], "texture": "#1", "tintindex": 0},
-				"up": {"uv": [0, 0, 4, 6], "texture": "#1", "tintindex": 0},
-				"down": {"uv": [0, 6, 4, 12], "texture": "#1", "tintindex": 0}
+				"north": {"uv": [3, 0, 6, 1.5], "texture": "#1", "tintindex": 0},
+				"east": {"uv": [3, 0, 6, 1.5], "texture": "#1", "tintindex": 0},
+				"south": {"uv": [3, 0, 6, 1.5], "texture": "#1", "tintindex": 0},
+				"west": {"uv": [3, 0, 6, 1.5], "texture": "#1", "tintindex": 0},
+				"up": {"uv": [0, 0, 3, 2.5], "texture": "#1", "tintindex": 0},
+				"down": {"uv": [0, 2.5, 3, 6], "texture": "#1", "tintindex": 0}
 			}
 		}
 	],
