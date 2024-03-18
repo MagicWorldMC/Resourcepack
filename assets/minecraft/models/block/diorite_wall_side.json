@@ -2,6 +2,6 @@
     "__comment": "JimStoneCraft - 2020",
     "parent": "minecraft:block/template_wall_side",
     "textures": {
-        "wall": "minecraft:block/diorite"
+        "wall": "minecraft:block/quartz_block"
     }
 }
