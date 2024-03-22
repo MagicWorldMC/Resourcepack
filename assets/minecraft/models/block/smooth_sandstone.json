@@ -2,6 +2,6 @@
     "__comment": "JimStoneCraft - 2020",
     "parent": "minecraft:block/cube_all",
     "textures": {
-        "all": "minecraft:block/sandstone_top"
+        "all": "minecraft:block/chiseled_sandstone_top"
     }
 }
