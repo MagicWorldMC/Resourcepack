@@ -98,6 +98,29 @@
         {"type": "bitmap","file": "minecraft:custom/icons/house_gryphon.png", "ascent": -8.5, "height": 20, "chars": ["\uE001"]},
         {"type": "bitmap","file": "minecraft:custom/icons/house_rattlesnake.png", "ascent": -8.5, "height": 20, "chars": ["\uE002"]},
         {"type": "bitmap","file": "minecraft:custom/icons/house_badger.png", "ascent": -8.5, "height": 20, "chars": ["\uE003"]},
-        {"type": "bitmap","file": "minecraft:custom/icons/house_raventail.png", "ascent": -8.5, "height": 20, "chars": ["\uE004"]}
+        {"type": "bitmap","file": "minecraft:custom/icons/house_raventail.png", "ascent": -8.5, "height": 20, "chars": ["\uE004"]},
+
+        {
+            "type": "space",
+            "advances": {
+                "\u0010": -1,
+                "\u0011": -2,
+                "\u0012": -4,
+                "\u0013": -8,
+                "\u0014": -16,
+                "\u0015": -32,
+                "\u0016": -64,
+                "\u0017": -128,
+                "\u0018": -256, 
+
+                "\u0019": 1, 
+                "\u001A": 2, 
+                "\u001B": 4, 
+                "\u001C": 8, 
+                "\u001D": 16, 
+                "\u001E": 32, 
+                "\u001F": 64 
+            }
+        }
     ]
 }
