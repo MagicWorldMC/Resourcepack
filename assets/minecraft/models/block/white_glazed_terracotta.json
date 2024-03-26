@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "custom/chair_sides_spruce",
 		"1": "custom/chair",
-		"2": "block/smooth_stone",
+		"2": "custom/ground_smooth_stone",
 		"particle": "custom/chair_sides_spruce"
 	},
 	"elements": [
