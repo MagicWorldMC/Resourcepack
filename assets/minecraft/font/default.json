@@ -2813,6 +2813,17 @@
             "shift": [10, 0]
         },
         
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom2/inventory/shop/shop_magic_tokens.png",
+            "height": 128,
+            "ascent": 63,
+            "chars": [
+                "\u1310\u1311"
+            ],
+            "shift": [10, 0]
+        },
+
         {"type": "bitmap","file": "minecraft:custom/logo.png","ascent": 32, "height": 80,"chars": ["⿌⿍"]},
         {"type": "bitmap","file": "minecraft:custom/logo.png","ascent": 18.75, "height": 35,"chars": ["җҘ"]},
 		{"type": "bitmap","file": "minecraft:custom/icons/space.png","ascent": -32768,"height": -3,"chars": ["⿎"]},
