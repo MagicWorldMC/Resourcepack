@@ -12,6 +12,7 @@
         {"predicate": { "custom_model_data": 18006 }, "model": "item/custom/hats/crown_hat1"},
         {"predicate": { "custom_model_data": 18007 }, "model": "item/custom/hats/golden_crown"},
         {"predicate": { "custom_model_data": 18008 }, "model": "item/custom/hats/halo_hat"},
+        {"predicate": { "custom_model_data": 18009 }, "model": "item/custom/hats/wumpus_hat"},
 
         {"predicate": { "custom_model_data": 20001 }, "model": "item/custom/glove"}
     ]
