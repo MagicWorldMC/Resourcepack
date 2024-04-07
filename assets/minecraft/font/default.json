@@ -2868,6 +2868,8 @@
         {"type": "bitmap","file": "minecraft:custom2/badge/badge_quest.png", "ascent": 8, "height": 8.5, "chars": ["\uB022"]},
         {"type": "bitmap","file": "minecraft:custom2/badge/badge_house_shop.png", "ascent": 8, "height": 8.5, "chars": ["\uB023"]},
         {"type": "bitmap","file": "minecraft:custom2/badge/badge_hats_shop.png", "ascent": 8, "height": 8.5, "chars": ["\uB024"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_wand_shop.png", "ascent": 8, "height": 8.5, "chars": ["\uB025"]}
+        {"type": "bitmap","file": "minecraft:custom2/badge/badge_wand_shop.png", "ascent": 8, "height": 8.5, "chars": ["\uB025"]},
+
+        {"type": "bitmap","file": "minecraft:custom2/badge/magicworld_club.png", "ascent": 7.5, "height": 7, "chars": ["\uB026"]}
     ]
 }
