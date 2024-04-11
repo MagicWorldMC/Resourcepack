@@ -14,6 +14,12 @@
         {"predicate": { "custom_model_data": 18008 }, "model": "item/custom/hats/halo_hat"},
         {"predicate": { "custom_model_data": 18009 }, "model": "item/custom/hats/wumpus_hat"},
 
-        {"predicate": { "custom_model_data": 20001 }, "model": "item/custom/glove"}
+        {"predicate": { "custom_model_data": 20001 }, "model": "item/custom/glove"},
+
+        {"predicate": { "custom_model_data": 21001 }, "model": "item/custom/creatures/mooncalf"},
+        {"predicate": { "custom_model_data": 21002 }, "model": "item/custom/creatures/treetruckle"},
+        {"predicate": { "custom_model_data": 21003 }, "model": "item/custom/creatures/sniffler"},
+        {"predicate": { "custom_model_data": 21004 }, "model": "item/custom/creatures/sprout"},
+        {"predicate": { "custom_model_data": 21005 }, "model": "item/custom/creatures/dairycawl"}
     ]
 }
