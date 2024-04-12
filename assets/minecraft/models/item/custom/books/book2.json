@@ -1,0 +1,9 @@
+{
+	"parent": "item/custom/books/book",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom/book2",
+		"particle": "custom/book"
+	}
+}
