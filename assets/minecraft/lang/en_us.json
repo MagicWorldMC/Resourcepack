@@ -2,5 +2,6 @@
     "container.crafting": "",
     "container.inventory": "",
     "container.enderchest": "Backpack",
+    "block.minecraft.ender_chest": "Backpack",
     "menu.game": "⿌⿎⿍"
 }

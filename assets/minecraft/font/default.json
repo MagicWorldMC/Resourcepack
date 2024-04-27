@@ -2823,6 +2823,17 @@
             ],
             "shift": [10, 0]
         },
+        
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom2/inventory/header/header_magicworld.png",
+            "height": 128,
+            "ascent": 63,
+            "chars": [
+                "\u1312\u1313"
+            ],
+            "shift": [10, 0]
+        },
 
         {"type": "bitmap","file": "minecraft:custom/logo.png","ascent": 32, "height": 80,"chars": ["⿌⿍"]},
         {"type": "bitmap","file": "minecraft:custom/logo.png","ascent": 18.75, "height": 35,"chars": ["җҘ"]},
