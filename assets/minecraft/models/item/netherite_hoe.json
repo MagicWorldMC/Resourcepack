@@ -6,6 +6,10 @@
     "overrides": [
         {"predicate": { "custom_model_data": 17001 }, "model": "item/custom/wands/wand_ancient"},
         {"predicate": { "custom_model_data": 17002 }, "model": "item/custom/wands/wand_mystical_twig"},
+        {"predicate": { "custom_model_data": 17003 }, "model": "item/custom/wands/wand_curved"},
+        {"predicate": { "custom_model_data": 17004 }, "model": "item/custom/wands/wand_potions_master"},
+        {"predicate": { "custom_model_data": 17005 }, "model": "item/custom/wands/wand_creature_master"},
+
 
         {"predicate": { "custom_model_data": 18001 }, "model": "item/custom/wands/wand_oak"},
         {"predicate": { "custom_model_data": 18002 }, "model": "item/custom/wands/wand_acacia"},
@@ -26,6 +30,13 @@
         {"predicate": { "custom_model_data": 20003 }, "model": "item/custom/wands/wand_spiral_ash"},
         {"predicate": { "custom_model_data": 20004 }, "model": "item/custom/wands/wand_spiral_spruce"},
         {"predicate": { "custom_model_data": 20005 }, "model": "item/custom/wands/wand_spiral_redwood"},
-        {"predicate": { "custom_model_data": 20006 }, "model": "item/custom/wands/wand_spiral_blackthorn"}
+        {"predicate": { "custom_model_data": 20006 }, "model": "item/custom/wands/wand_spiral_blackthorn"},
+
+        {"predicate": { "custom_model_data": 21001 }, "model": "item/custom/wands/wand_stalk_oak"},
+        {"predicate": { "custom_model_data": 21002 }, "model": "item/custom/wands/wand_stalk_acacia"},
+        {"predicate": { "custom_model_data": 21003 }, "model": "item/custom/wands/wand_stalk_ash"},
+        {"predicate": { "custom_model_data": 21004 }, "model": "item/custom/wands/wand_stalk_spruce"},
+        {"predicate": { "custom_model_data": 21005 }, "model": "item/custom/wands/wand_stalk_redwood"},
+        {"predicate": { "custom_model_data": 21006 }, "model": "item/custom/wands/wand_stalk_blackthorn"}
     ]
 }
