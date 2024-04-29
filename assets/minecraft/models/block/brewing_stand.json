@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"0": "custom/cauldron",
-		"1": "custom/purple_dyed_water",
+		"1": "custom/green_dyed_water",
 		"particle": "custom/cauldron"
 	},
 	"elements": [
