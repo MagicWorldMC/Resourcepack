@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"gui_light": "front",
 	"textures": {
 		"0": "custom/hats/goose",
 		"particle": "custom/hats/goose"
@@ -815,7 +814,7 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"head": {
-			"translation": [8.75, -4, 0.5],
+			"translation": [-0.75, 9, -3.25],
 			"scale": [0.8, 0.8, 0.8]
 		}
 	},
