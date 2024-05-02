@@ -13,6 +13,8 @@
         {"predicate": { "custom_model_data": 18007 }, "model": "item/custom/hats/golden_crown"},
         {"predicate": { "custom_model_data": 18008 }, "model": "item/custom/hats/halo_hat"},
         {"predicate": { "custom_model_data": 18009 }, "model": "item/custom/hats/wumpus_hat"},
+        {"predicate": { "custom_model_data": 18010 }, "model": "item/custom/hats/spectre_glasses"},
+        {"predicate": { "custom_model_data": 18011 }, "model": "item/custom/hats/goose"},
 
         {"predicate": { "custom_model_data": 20001 }, "model": "item/custom/glove"},
 
