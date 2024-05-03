@@ -2846,10 +2846,11 @@
         {"type": "bitmap","file": "minecraft:custom2/font/gold.png", "ascent": 8, "height": 12, "chars": ["\uE005"]},
         {"type": "bitmap","file": "minecraft:custom2/font/compass.png", "ascent": 8, "height": 12, "chars": ["\uE006"]},
 
-        {"type": "bitmap","file": "minecraft:custom2/badge/tag_normal.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC001"]},
+        {"type": "bitmap","file": "minecraft:custom2/badge/tag_common.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC001"]},
         {"type": "bitmap","file": "minecraft:custom2/badge/tag_epic.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC002"]},
         {"type": "bitmap","file": "minecraft:custom2/badge/tag_legendary.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC003"]},
         {"type": "bitmap","file": "minecraft:custom2/badge/tag_bound.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC004"]},
+        {"type": "bitmap","file": "minecraft:custom2/badge/tag_uncommon.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC005"]},
 
         {"type": "bitmap","file": "minecraft:custom2/badge/badge_headmaster.png", "ascent": 8, "height": 8.5, "chars": ["\uB001"]},
         {"type": "bitmap","file": "minecraft:custom2/badge/badge_headstaff.png", "ascent": 8, "height": 8.5, "chars": ["\uB002"]},
