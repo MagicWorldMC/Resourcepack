@@ -68,8 +68,21 @@
 			}
 		},
 		{
-			"from": [9.24618, 3.7544, 7.9031],
+			"from": [9.24618, 6.0544, 7.9031],
 			"to": [9.44604, 9.32445, 8.0969],
+			"rotation": {"angle": 0, "axis": "z", "origin": [9.34611, 4.75, 8]},
+			"faces": {
+				"north": {"uv": [9, 0.5, 8, 15], "rotation": 180, "texture": "#1"},
+				"east": {"uv": [9, 0.5, 8, 15], "texture": "#1"},
+				"south": {"uv": [9, 0.5, 8, 15], "texture": "#1"},
+				"west": {"uv": [9, 0.5, 8, 15], "texture": "#1"},
+				"up": {"uv": [8.5, 15, 7.5, 16], "texture": "#1"},
+				"down": {"uv": [8.5, 15, 7.5, 16], "texture": "#1"}
+			}
+		},
+		{
+			"from": [9.24618, 3.486, 7.9031],
+			"to": [9.44604, 6.05605, 8.0969],
 			"rotation": {"angle": 0, "axis": "z", "origin": [9.34611, 4.75, 8]},
 			"faces": {
 				"north": {"uv": [8.5, 0.5, 7.5, 15], "rotation": 180, "texture": "#1"},
@@ -262,55 +275,49 @@
 			"name": "handle",
 			"origin": [9.34611, 4.75, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [0, 1, 2, 3]
 		},
 		{
 			"name": "wand",
 			"origin": [9.34611, 8, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [
 				4,
 				5,
 				6,
+				7,
 				{
 					"name": "group",
 					"origin": [9.34611, 4.75, 8],
 					"color": 0,
-					"nbt": "{}",
-					"children": [7]
+					"children": [8]
 				},
 				{
 					"name": "group",
 					"origin": [9.34611, 4.75, 8],
 					"color": 0,
-					"nbt": "{}",
-					"children": [8, 9]
+					"children": [9, 10]
 				},
 				{
 					"name": "group",
 					"origin": [9.34611, 4.75, 8],
 					"color": 0,
-					"nbt": "{}",
-					"children": [10, 11]
+					"children": [11, 12]
 				},
 				{
 					"name": "group",
 					"origin": [9.34611, 4.75, 8],
 					"color": 0,
-					"nbt": "{}",
-					"children": [12, 13]
+					"children": [13, 14]
 				},
 				{
 					"name": "group",
 					"origin": [9.34611, 4.75, 8],
 					"color": 0,
-					"nbt": "{}",
-					"children": [14, 15]
+					"children": [15, 16]
 				}
 			]
 		},
-		16
+		17
 	]
 }

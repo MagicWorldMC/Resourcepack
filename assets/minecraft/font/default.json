@@ -2853,6 +2853,10 @@
         {"type": "bitmap","file": "minecraft:custom2/badge/tag_uncommon.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC005"]},
         {"type": "bitmap","file": "minecraft:custom2/badge/tag_rare.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC006"]},
 
+        {"type": "bitmap","file": "minecraft:custom2/badge/channel_local.png", "ascent": 8, "height": 8.5, "chars": ["\uC007"]},
+        {"type": "bitmap","file": "minecraft:custom2/badge/channel_roleplay.png", "ascent": 8, "height": 8.5, "chars": ["\uC008"]},
+        {"type": "bitmap","file": "minecraft:custom2/badge/channel_trade.png", "ascent": 8, "height": 8.5, "chars": ["\uC009"]},
+
         {"type": "bitmap","file": "minecraft:custom2/badge/badge_headmaster.png", "ascent": 8, "height": 8.5, "chars": ["\uB001"]},
         {"type": "bitmap","file": "minecraft:custom2/badge/badge_headstaff.png", "ascent": 8, "height": 8.5, "chars": ["\uB002"]},
         
