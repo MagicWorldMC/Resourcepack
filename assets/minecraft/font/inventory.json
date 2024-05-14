@@ -13,7 +13,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/clipboard.png",
+            "file": "minecraft:custom2/inventory/generic.png",
             "height": 128,
             "ascent": 12,
             "chars": [
@@ -95,10 +95,10 @@
             "shift": [10, 0]
         },
         
-        {"type": "bitmap","file": "minecraft:custom/icons/house_gryphon.png", "ascent": -8.5, "height": 20, "chars": ["\uE001"]},
-        {"type": "bitmap","file": "minecraft:custom/icons/house_rattlesnake.png", "ascent": -8.5, "height": 20, "chars": ["\uE002"]},
-        {"type": "bitmap","file": "minecraft:custom/icons/house_badger.png", "ascent": -8.5, "height": 20, "chars": ["\uE003"]},
-        {"type": "bitmap","file": "minecraft:custom/icons/house_raventail.png", "ascent": -8.5, "height": 20, "chars": ["\uE004"]},
+        {"type": "bitmap","file": "minecraft:custom/icons/house_gryphon.png", "ascent": -23, "height": 20, "chars": ["\uE001"]},
+        {"type": "bitmap","file": "minecraft:custom/icons/house_rattlesnake.png", "ascent": -23, "height": 20, "chars": ["\uE002"]},
+        {"type": "bitmap","file": "minecraft:custom/icons/house_badger.png", "ascent": -23, "height": 20, "chars": ["\uE003"]},
+        {"type": "bitmap","file": "minecraft:custom/icons/house_raventail.png", "ascent": -23, "height": 20, "chars": ["\uE004"]},
 
         {
             "type": "space",
