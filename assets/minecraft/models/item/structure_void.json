@@ -4,6 +4,9 @@
         "layer0": "item/structure_void"
     },
     "overrides": [
+        {"predicate": {"custom_model_data": 1}, "model": "item/custom/icon/status/online"},
+        {"predicate": {"custom_model_data": 2}, "model": "item/custom/icon/status/offline"},
+
         {"predicate": {"custom_model_data": 18001}, "model": "item/custom/icon/filler"},
         {"predicate": {"custom_model_data": 18002}, "model": "item/custom/icon/filler_up"},
         {"predicate": {"custom_model_data": 18003}, "model": "item/custom/icon/filler_side"},
@@ -11,7 +14,7 @@
         {"predicate": {"custom_model_data": 18005}, "model": "item/custom/icon/filler_plus"},
         {"predicate": {"custom_model_data": 18006}, "model": "item/custom/icon/filler_check"},
         {"predicate": {"custom_model_data": 18007}, "model": "item/custom/icon/filler_cross"},
-        {"predicate": {"custom_model_data": 18008}, "model": "item/custom/icon/button_big"},
+        {"predicate": {"custom_model_data": 18008}, "model": "item/custom/icon/map"},
         {"predicate": {"custom_model_data": 18009}, "model": "item/custom/icon/wand"},
         {"predicate": {"custom_model_data": 18010}, "model": "item/custom/icon/hat"},
         {"predicate": {"custom_model_data": 18011}, "model": "item/custom/icon/calendar"},

@@ -17,8 +17,7 @@
             "height": 128,
             "ascent": 12,
             "chars": [
-                "\uA100\uA101", 
-                "\uA102\uA103"
+                "\uA100\uA101"
             ],
             "shift": [10, 0]
         },
@@ -29,8 +28,7 @@
             "height": 128,
             "ascent": 12,
             "chars": [
-                "\uA104\uA105", 
-                "\uA106\uA107"
+                "\uA102\uA103"
             ],
             "shift": [10, 0]
         },
@@ -41,8 +39,7 @@
             "height": 128,
             "ascent": 12,
             "chars": [
-                "\uA108\uA109", 
-                "\uA110\uA111"
+                "\uA104\uA105"
             ],
             "shift": [10, 0]
         },
@@ -54,8 +51,7 @@
             "height": 128,
             "ascent": 12,
             "chars": [
-                "\uA112\uA113", 
-                "\uA114\uA115"
+                "\uA106\uA107"
             ],
             "shift": [10, 0]
         },
@@ -66,8 +62,7 @@
             "height": 128,
             "ascent": 12,
             "chars": [
-                "\uA116\uA117",
-                "\uA118\uA119"
+                "\uA109\uA109"
             ],
             "shift": [10, 0]
         },
@@ -78,8 +73,7 @@
             "height": 128,
             "ascent": 12,
             "chars": [
-                "\uA120\uA121",
-                "\uA122\uA123"
+                "\uA110\uA111"
             ],
             "shift": [10, 0]
         },
