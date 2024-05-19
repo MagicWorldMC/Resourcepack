@@ -31,7 +31,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/font/background_end.png",
+            "file": "minecraft:custom_font/font/background_end.png",
             "ascent": 6,
             "height": 14,
             "chars": [
@@ -40,7 +40,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/font/background_center_1.png",
+            "file": "minecraft:custom_font/font/background_center_1.png",
             "ascent": 6,
             "height": 14,
             "chars": [
@@ -49,7 +49,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/font/background_center_2.png",
+            "file": "minecraft:custom_font/font/background_center_2.png",
             "ascent": 6,
             "height": 14,
             "chars": [
@@ -58,7 +58,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/font/background_center_4.png",
+            "file": "minecraft:custom_font/font/background_center_4.png",
             "ascent": 6,
             "height": 14,
             "chars": [
@@ -67,7 +67,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/font/background_center_8.png",
+            "file": "minecraft:custom_font/font/background_center_8.png",
             "ascent": 6,
             "height": 14,
             "chars": [
@@ -76,7 +76,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/font/background_center_16.png",
+            "file": "minecraft:custom_font/font/background_center_16.png",
             "ascent": 6,
             "height": 14,
             "chars": [
@@ -85,7 +85,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/font/background_center_32.png",
+            "file": "minecraft:custom_font/font/background_center_32.png",
             "ascent": 6,
             "height": 14,
             "chars": [
@@ -94,7 +94,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/font/background_center_64.png",
+            "file": "minecraft:custom_font/font/background_center_64.png",
             "ascent": 6,
             "height": 14,
             "chars": [
@@ -103,7 +103,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/font/background_center_128.png",
+            "file": "minecraft:custom_font/font/background_center_128.png",
             "ascent": 6,
             "height": 14,
             "chars": [
@@ -456,7 +456,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/shop/shop_supplies.png",
+            "file": "minecraft:custom_font/inventory/shop/shop_supplies.png",
             "height": 128,
             "ascent": 63,
             "chars": [
@@ -467,7 +467,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/shop/shop_poppins_potions.png",
+            "file": "minecraft:custom_font/inventory/shop/shop_poppins_potions.png",
             "height": 128,
             "ascent": 63,
             "chars": [
@@ -478,7 +478,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/shop/shop_brooms.png",
+            "file": "minecraft:custom_font/inventory/shop/shop_brooms.png",
             "height": 128,
             "ascent": 63,
             "chars": [
@@ -489,7 +489,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/shop/shop_house.png",
+            "file": "minecraft:custom_font/inventory/shop/shop_house.png",
             "height": 128,
             "ascent": 63,
             "chars": [
@@ -500,7 +500,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/shop/shop_owl_post.png",
+            "file": "minecraft:custom_font/inventory/shop/shop_owl_post.png",
             "height": 128,
             "ascent": 63,
             "chars": [
@@ -511,7 +511,7 @@
         
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/shop/shop_magic_tokens.png",
+            "file": "minecraft:custom_font/inventory/shop/shop_magic_tokens.png",
             "height": 128,
             "ascent": 63,
             "chars": [
@@ -522,7 +522,7 @@
         
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/header/header_magicworld.png",
+            "file": "minecraft:custom_font/inventory/header/header_magicworld.png",
             "height": 128,
             "ascent": 63,
             "chars": [
@@ -534,55 +534,57 @@
         {"type": "bitmap","file": "minecraft:custom/logo.png","ascent": 32, "height": 80,"chars": ["⿌⿍"]},
         {"type": "bitmap","file": "minecraft:custom/logo.png","ascent": 18.75, "height": 35,"chars": ["җҘ"]},
 		{"type": "bitmap","file": "minecraft:custom/icons/space.png","ascent": -32768,"height": -3,"chars": ["⿎"]},
-        {"type": "bitmap","file": "minecraft:custom/icons/house_gryphon.png", "ascent": 8, "height": 9, "chars": ["\uE001"]},
-        {"type": "bitmap","file": "minecraft:custom/icons/house_rattlesnake.png", "ascent": 8, "height": 9, "chars": ["\uE002"]},
-        {"type": "bitmap","file": "minecraft:custom/icons/house_badger.png", "ascent": 8, "height": 9, "chars": ["\uE003"]},
-        {"type": "bitmap","file": "minecraft:custom/icons/house_raventail.png", "ascent": 8, "height": 9, "chars": ["\uE004"]},
-
-        {"type": "bitmap","file": "minecraft:custom2/font/gold.png", "ascent": 8, "height": 12, "chars": ["\uE005"]},
-        {"type": "bitmap","file": "minecraft:custom2/font/compass.png", "ascent": 8, "height": 12, "chars": ["\uE006"]},
-
-        {"type": "bitmap","file": "minecraft:custom2/badge/tag_common.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC001"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/tag_epic.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC002"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/tag_legendary.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC003"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/tag_bound.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC004"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/tag_uncommon.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC005"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/tag_rare.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC006"]},
-
-        {"type": "bitmap","file": "minecraft:custom2/badge/channel_local.png", "ascent": 8, "height": 8.5, "chars": ["\uC007"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/channel_roleplay.png", "ascent": 8, "height": 8.5, "chars": ["\uC008"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/channel_trade.png", "ascent": 8, "height": 8.5, "chars": ["\uC009"]},
-
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_headmaster.png", "ascent": 8, "height": 8.5, "chars": ["\uB001"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_headstaff.png", "ascent": 8, "height": 8.5, "chars": ["\uB002"]},
         
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_gryphon_prefect.png", "ascent": 8, "height": 8.5, "chars": ["\uB003"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_gryphon_sr_prefect.png", "ascent": 8, "height": 8.5, "chars": ["\uB004"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_gryphon_head_of_house.png", "ascent": 8, "height": 8.5, "chars": ["\uB005"]},
+        {"type": "bitmap","file": "minecraft:custom/icons/house_gryphon.png", "ascent": 7.5, "height": 8, "chars": ["\uE001"]},
+        {"type": "bitmap","file": "minecraft:custom/icons/house_rattlesnake.png", "ascent": 7.5, "height": 8, "chars": ["\uE002"]},
+        {"type": "bitmap","file": "minecraft:custom/icons/house_badger.png", "ascent": 7.5, "height": 8, "chars": ["\uE003"]},
+        {"type": "bitmap","file": "minecraft:custom/icons/house_raventail.png", "ascent": 7.5, "height": 8, "chars": ["\uE004"]},
 
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_rattlesnake_prefect.png", "ascent": 8, "height": 8.5, "chars": ["\uB006"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_rattlesnake_sr_prefect.png", "ascent": 8, "height": 8.5, "chars": ["\uB007"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_rattlesnake_head_of_house.png", "ascent": 8, "height": 8.5, "chars": ["\uB008"]},
+        {"type": "bitmap","file": "minecraft:custom_font/font/gold.png", "ascent": 8, "height": 12, "chars": ["\uE005"]},
+        {"type": "bitmap","file": "minecraft:custom_font/font/compass.png", "ascent": 8, "height": 12, "chars": ["\uE006"]},
 
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_raventail_prefect.png", "ascent": 8, "height": 8.5, "chars": ["\uB009"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_raventail_sr_prefect.png", "ascent": 8, "height": 8.5, "chars": ["\uB010"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_raventail_head_of_house.png", "ascent": 8, "height": 8.5, "chars": ["\uB011"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/tag_common.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC001"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/tag_epic.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC002"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/tag_legendary.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC003"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/tag_bound.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC004"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/tag_uncommon.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC005"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/tag_rare.png", "ascent": 7.5, "height": 8.5, "chars": ["\uC006"]},
 
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_badger_prefect.png", "ascent": 8, "height": 8.5, "chars": ["\uB012"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_badger_sr_prefect.png", "ascent": 8, "height": 8.5, "chars": ["\uB013"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_badger_head_of_house.png", "ascent": 8, "height": 8.5, "chars": ["\uB014"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_professor.png", "ascent": 8, "height": 8.5, "chars": ["\uB015"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_architect.png", "ascent": 8, "height": 8.5, "chars": ["\uB016"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_vip.png", "ascent": 8, "height": 8.5, "chars": ["\uB017"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_engineer.png", "ascent": 8, "height": 8.5, "chars": ["\uB018"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_sr_engineer.png", "ascent": 8, "height": 8.5, "chars": ["\uB019"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_npc.png", "ascent": 8, "height": 8.5, "chars": ["\uB020"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_shop.png", "ascent": 8, "height": 8.5, "chars": ["\uB021"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_quest.png", "ascent": 8, "height": 8.5, "chars": ["\uB022"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_house_shop.png", "ascent": 8, "height": 8.5, "chars": ["\uB023"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_hats_shop.png", "ascent": 8, "height": 8.5, "chars": ["\uB024"]},
-        {"type": "bitmap","file": "minecraft:custom2/badge/badge_wand_shop.png", "ascent": 8, "height": 8.5, "chars": ["\uB025"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/channel_local.png", "ascent": 7, "height": 8, "chars": ["\uC007"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/channel_roleplay.png", "ascent": 7, "height": 8, "chars": ["\uC008"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/channel_trade.png", "ascent": 7, "height": 8, "chars": ["\uC009"]},
 
-        {"type": "bitmap","file": "minecraft:custom2/badge/magicworld_club.png", "ascent": 7.5, "height": 7, "chars": ["\uB026"]}
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_headmaster.png", "ascent": 7, "height": 8, "chars": ["\uB001"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_headstaff.png", "ascent": 7, "height": 8, "chars": ["\uB002"]},
+        
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_gryphon_prefect.png", "ascent": 7, "height": 8, "chars": ["\uB003"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_gryphon_sr_prefect.png", "ascent": 7, "height": 8, "chars": ["\uB004"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_gryphon_head_of_house.png", "ascent": 7, "height": 8, "chars": ["\uB005"]},
+
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_rattlesnake_prefect.png", "ascent": 7, "height": 8, "chars": ["\uB006"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_rattlesnake_sr_prefect.png", "ascent": 7, "height": 8, "chars": ["\uB007"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_rattlesnake_head_of_house.png", "ascent": 7, "height": 8, "chars": ["\uB008"]},
+
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_raventail_prefect.png", "ascent": 7, "height": 8, "chars": ["\uB009"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_raventail_sr_prefect.png", "ascent": 7, "height": 8, "chars": ["\uB010"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_raventail_head_of_house.png", "ascent": 7, "height": 8, "chars": ["\uB011"]},
+
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_badger_prefect.png", "ascent": 7, "height": 8, "chars": ["\uB012"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_badger_sr_prefect.png", "ascent": 7, "height": 8, "chars": ["\uB013"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_badger_head_of_house.png", "ascent": 7, "height": 8, "chars": ["\uB014"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_professor.png", "ascent": 7, "height": 8, "chars": ["\uB015"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_architect.png", "ascent": 7, "height": 8, "chars": ["\uB016"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_vip.png", "ascent": 7, "height": 8, "chars": ["\uB017"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_engineer.png", "ascent": 7, "height": 8, "chars": ["\uB018"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_sr_engineer.png", "ascent": 7, "height": 8, "chars": ["\uB019"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_npc.png", "ascent": 7, "height": 8, "chars": ["\uB020"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_shop.png", "ascent": 7, "height": 8, "chars": ["\uB021"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_quest.png", "ascent": 7, "height": 8, "chars": ["\uB022"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_house_shop.png", "ascent": 7, "height": 8, "chars": ["\uB023"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_hats_shop.png", "ascent": 7, "height": 8, "chars": ["\uB024"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_wand_shop.png", "ascent": 7, "height": 8, "chars": ["\uB025"]},
+
+        {"type": "bitmap","file": "minecraft:custom_font/badge/magicworld_club.png", "ascent": 7.5, "height": 7, "chars": ["\uB026"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/default.png", "ascent": 7, "height": 8, "chars": ["\uB027"]}
     ]
 }

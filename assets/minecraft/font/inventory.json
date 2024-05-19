@@ -13,7 +13,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/generic.png",
+            "file": "minecraft:custom_font/inventory/generic.png",
             "height": 128,
             "ascent": 12,
             "chars": [
@@ -24,7 +24,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/discovery.png",
+            "file": "minecraft:custom_font/inventory/discovery.png",
             "height": 128,
             "ascent": 12,
             "chars": [
@@ -35,7 +35,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/profile.png",
+            "file": "minecraft:custom_font/inventory/profile.png",
             "height": 128,
             "ascent": 12,
             "chars": [
@@ -47,7 +47,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/brewing/brewing_cold.png",
+            "file": "minecraft:custom_font/inventory/brewing/brewing_cold.png",
             "height": 128,
             "ascent": 12,
             "chars": [
@@ -58,7 +58,7 @@
         
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/brewing/brewing_warm.png",
+            "file": "minecraft:custom_font/inventory/brewing/brewing_warm.png",
             "height": 128,
             "ascent": 12,
             "chars": [
@@ -69,7 +69,7 @@
 
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/brewing/brewing_hot.png",
+            "file": "minecraft:custom_font/inventory/brewing/brewing_hot.png",
             "height": 128,
             "ascent": 12,
             "chars": [
@@ -80,7 +80,7 @@
         
         {
             "type": "bitmap",
-            "file": "minecraft:custom2/inventory/brewing/brewing_colored_cauldron.png",
+            "file": "minecraft:custom_font/inventory/brewing/brewing_colored_cauldron.png",
             "height": 128,
             "ascent": 12,
             "chars": [
