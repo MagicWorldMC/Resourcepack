@@ -584,7 +584,7 @@
         {"type": "bitmap","file": "minecraft:custom_font/badge/badge_hats_shop.png", "ascent": 7, "height": 8, "chars": ["\uB024"]},
         {"type": "bitmap","file": "minecraft:custom_font/badge/badge_wand_shop.png", "ascent": 7, "height": 8, "chars": ["\uB025"]},
 
-        {"type": "bitmap","file": "minecraft:custom_font/badge/plus_colored.png", "ascent": 7.5, "height": 7, "chars": ["\uB026"]},
+        {"type": "bitmap","file": "minecraft:custom_font/badge/plus_colored.png", "ascent": 7, "height": 8, "chars": ["\uB026"]},
         {"type": "bitmap","file": "minecraft:custom_font/badge/default.png", "ascent": 7, "height": 8, "chars": ["\uB027"]},
         {"type": "bitmap","file": "minecraft:custom_font/badge/plus.png", "ascent": 7, "height": 8, "chars": ["\uB028"]}
     ]
