@@ -88,7 +88,29 @@
             ],
             "shift": [10, 0]
         },
-        
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_font/inventory/punish.png",
+            "height": 128,
+            "ascent": 12,
+            "chars": [
+                "\uA125\uA126"
+            ],
+            "shift": [10, 0]
+        },
+
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom_font/inventory/punish_warning.png",
+            "height": 128,
+            "ascent": 12,
+            "chars": [
+                "\uA127\uA128"
+            ],
+            "shift": [10, 0]
+        },
+
         {"type": "bitmap","file": "minecraft:custom/icons/house_gryphon.png", "ascent": -23, "height": 20, "chars": ["\uE001"]},
         {"type": "bitmap","file": "minecraft:custom/icons/house_rattlesnake.png", "ascent": -23, "height": 20, "chars": ["\uE002"]},
         {"type": "bitmap","file": "minecraft:custom/icons/house_badger.png", "ascent": -23, "height": 20, "chars": ["\uE003"]},

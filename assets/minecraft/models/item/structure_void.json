@@ -19,6 +19,7 @@
         {"predicate": {"custom_model_data": 18010}, "model": "item/custom/icon/hat"},
         {"predicate": {"custom_model_data": 18011}, "model": "item/custom/icon/calendar"},
         {"predicate": {"custom_model_data": 18012}, "model": "item/custom/icon/book"},
+        {"predicate": {"custom_model_data": 18013}, "model": "item/custom/icon/filler_lock"},
 
         {"predicate": {"custom_model_data": 19001}, "model": "item/custom/icon/back"},
         {"predicate": {"custom_model_data": 19002}, "model": "item/custom/icon/next"},
@@ -32,6 +33,7 @@
         {"predicate": {"custom_model_data": 19010}, "model": "item/custom/icon/spoon"},
         {"predicate": {"custom_model_data": 19011}, "model": "item/custom/icon/snowflake"},
         {"predicate": {"custom_model_data": 19012}, "model": "item/custom/icon/small_flame"},
-        {"predicate": {"custom_model_data": 19013}, "model": "item/custom/icon/big_flame"}
+        {"predicate": {"custom_model_data": 19013}, "model": "item/custom/icon/big_flame"},
+        {"predicate": {"custom_model_data": 19014}, "model": "item/custom/icon/arrow_down"}
     ]
 }
