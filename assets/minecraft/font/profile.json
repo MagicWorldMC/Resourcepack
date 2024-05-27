@@ -52,6 +52,8 @@
         {"type": "bitmap","file": "minecraft:custom_font/badge/badge_architect.png", "ascent": -30, "height": 8.5, "chars": ["\uB016"]},
         {"type": "bitmap","file": "minecraft:custom_font/badge/badge_vip.png", "ascent": -30, "height": 8.5, "chars": ["\uB017"]},
         {"type": "bitmap","file": "minecraft:custom_font/badge/badge_engineer.png", "ascent": -30, "height": 8.5, "chars": ["\uB018"]},
-        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_sr_engineer.png", "ascent": -30, "height": 8.5, "chars": ["\uB019"]}
+        {"type": "bitmap","file": "minecraft:custom_font/badge/badge_sr_engineer.png", "ascent": -30, "height": 8.5, "chars": ["\uB019"]},
+        
+        {"type": "bitmap","file": "minecraft:custom_font/badge/plus_colored.png", "ascent": -30, "height": 8, "chars": ["\uB026"]}
     ]
 }
