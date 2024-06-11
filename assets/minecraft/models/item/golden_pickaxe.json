@@ -15,6 +15,10 @@
         {"predicate": { "custom_model_data": 18009 }, "model": "item/custom/hats/wumpus_hat"},
         {"predicate": { "custom_model_data": 18010 }, "model": "item/custom/hats/spectre_glasses"},
         {"predicate": { "custom_model_data": 18011 }, "model": "item/custom/hats/goose"},
+        {"predicate": { "custom_model_data": 18012 }, "model": "item/custom/hats/wizard_hat_blue"},
+        {"predicate": { "custom_model_data": 18013 }, "model": "item/custom/hats/wizard_hat_green"},
+        {"predicate": { "custom_model_data": 18014 }, "model": "item/custom/hats/wizard_hat_plus"},
+        {"predicate": { "custom_model_data": 18015 }, "model": "item/custom/hats/wizard_hat_purple"},
 
         {"predicate": { "custom_model_data": 20001 }, "model": "item/custom/glove"},
 

@@ -20,6 +20,7 @@
         {"predicate": {"custom_model_data": 18011}, "model": "item/custom/icon/calendar"},
         {"predicate": {"custom_model_data": 18012}, "model": "item/custom/icon/book"},
         {"predicate": {"custom_model_data": 18013}, "model": "item/custom/icon/filler_lock"},
+        {"predicate": {"custom_model_data": 18014}, "model": "item/custom/icon/filler_next"},
 
         {"predicate": {"custom_model_data": 19001}, "model": "item/custom/icon/back"},
         {"predicate": {"custom_model_data": 19002}, "model": "item/custom/icon/next"},

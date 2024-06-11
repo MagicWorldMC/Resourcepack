@@ -1,0 +1,9 @@
+{
+	"parent": "item/custom/hats/wizard_hat_blue",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "custom/hats/wizard_hat_green",
+		"1": "custom/hat_cloak_top",
+		"particle": "custom/hats/wizard_hat_green"
+	}
+}
