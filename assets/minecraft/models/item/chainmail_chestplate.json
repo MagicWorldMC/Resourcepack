@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/chainmail_chestplate"
+    },
+    "overrides": [
+        {"predicate": { "custom_model_data": 1 }, "model": "item/custom/armor/suit/chestplate"},
+        {"predicate": { "custom_model_data": 2 }, "model": "item/custom/armor/attire/chestplate"},
+        {"predicate": { "custom_model_data": 3 }, "model": "item/custom/armor/attire_female/chestplate"},
+        {"predicate": { "custom_model_data": 4 }, "model": "item/custom/armor/casual_blue/chestplate"},
+        {"predicate": { "custom_model_data": 5 }, "model": "item/custom/armor/casual_brown/chestplate"}
+    ]
+}
